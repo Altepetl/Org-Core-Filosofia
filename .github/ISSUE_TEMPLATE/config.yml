@@ -1,0 +1,11 @@
+# Configuración del selector de plantillas de issue
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discusión general
+    url: https://github.com/Altepetl/Org-Core-Filosofia/discussions
+    about: Para preguntas, ideas o reflexiones sobre los documentos fundacionales que no son inconsistencia, corrección ni propuesta concreta.
+  - name: 📜 Marco de Pensamiento Crítico
+    url: https://github.com/Altepetl/Org-Core-CriticalThinking
+    about: Marco de análisis que el Altepetl usa para tomar decisiones. Útil para sustentar propuestas de cambio.

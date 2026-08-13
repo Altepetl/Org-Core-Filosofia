@@ -1,0 +1,46 @@
+# -----------------------------------------------
+# Sistema operativo
+# -----------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# -----------------------------------------------
+# Editores e IDE
+# -----------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+
+# -----------------------------------------------
+# Respaldos y temporales
+# -----------------------------------------------
+*.tmp
+*.bak
+*.log
+*.cache
+
+# -----------------------------------------------
+# Trabajo en curso / borradores privados
+# -----------------------------------------------
+drafts/
+*-draft.md
+*-private.md
+
+# -----------------------------------------------
+# Borradores editoriales (versiones de trabajo
+# de los documentos, antes de promover a /docs)
+# -----------------------------------------------
+work-in-progress/
+wip/
+
+# -----------------------------------------------
+# Herramientas de lint y formato
+# (configuración local, no relevantes al repo)
+# -----------------------------------------------
+.markdownlint.cache

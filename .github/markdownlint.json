@@ -1,0 +1,9 @@
+{
+  "comment": "Configuración de markdownlint para los documentos fundacionales del Altepetl. Relajada donde los documentos usan convenciones legítimas propias (diagramas ASCII, citas largas, tablas).",
+  "default": true,
+  "MD013": false,
+  "MD024": { "siblings_only": true },
+  "MD033": false,
+  "MD041": false,
+  "MD034": false
+}

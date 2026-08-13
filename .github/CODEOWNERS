@@ -1,0 +1,50 @@
+# CODEOWNERS de Filosofía
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Los documentos fundacionales del Altepetl son sensibles: cualquier cambio
+# afecta a toda la organización. Los owners listados aquí son responsables
+# predeterminados de revisar cambios en las rutas indicadas.
+#
+# IMPORTANTE: ajustar los placeholders @altepetl/* con los manejadores reales
+# de GitHub cuando la organización tenga sus equipos formados. Idealmente, los
+# owners de estos documentos deberían ser personas con alta trayectoria en la
+# organización (ver Gobernanza, sección 4: roles de participación), no cualquier
+# contribuyente.
+
+# -----------------------------------------------
+# Propiedad global por defecto
+# -----------------------------------------------
+# Todo cambio a los documentos fundacionales requiere revisión del núcleo
+# fundacional de la organización.
+*                           @altepetl/core-foundational
+
+# -----------------------------------------------
+# Documento de Filosofía
+# -----------------------------------------------
+# La Filosofía define los valores, la misión y los principios innegociables.
+# Cualquier cambio requiere revisión adicional de los custodios de valores.
+/Filosofia.md               @altepetl/core-foundational @altepetl/custodios-valores
+
+# -----------------------------------------------
+# Marco de Gobernanza
+# -----------------------------------------------
+# La Gobernanza define cómo se decide. Cualquier cambio al mecanismo decisional
+# requiere revisión adicional del núcleo de gobernanza.
+/Gobernanza.md              @altepetl/core-foundational @altepetl/core-gobernanza
+
+# -----------------------------------------------
+# Especificación técnica del Inicio
+# -----------------------------------------------
+# La Especificación detalla los 3 proyectos vitales (centro de datos, gateway
+# de pagos, blockchain). Cambios relevantes requieren revisión adicional de
+# los equipos técnicos responsables.
+/Especificacion.md          @altepetl/core-foundational @altepetl/tech-leads
+
+# -----------------------------------------------
+# Procesos formales (CHANGELOG, plantillas)
+# -----------------------------------------------
+# Los procesos de contribución y plantillas de .github los mantiene el núcleo
+# operativo del repositorio.
+/CHANGELOG.md               @altepetl/core-foundational
+/CONTRIBUTING.md            @altepetl/core-foundational
+/.github/                   @altepetl/core-foundational
