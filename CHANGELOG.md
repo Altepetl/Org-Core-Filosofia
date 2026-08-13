@@ -17,6 +17,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.3.0: precisión sobre la ventaja competitiva
+  del trabajo comunitario —reduce el costo de desarrollo, no el de operación
+  (disponibilidad 24/7, cumplimiento, seguridad, soporte y energía se pagan
+  en efectivo)—. Nueva subsección "Los límites del trabajo voluntario": la
+  estrategia no se apoya en ganar una guerra de precios sino en la ventaja
+  estructural: el producto principal de la organización es una Causa. Se
+  suaviza el pasaje "fácilmente alcanzable" de la sección Tecnología.
+- [Filosofía](./Filosofia.md), v1.2.0: precisión del modelo económico por
+  etapas —un Calpulli se integra cuando la plataforma ya está completa
+  (recursos financieros, técnicos y administrativos); el cambio abrupto de
+  condiciones materiales es el compromiso de la etapa madura, no del primer
+  día; el proyecto inicia de buena fe—. Énfasis en el diferenciador de
+  mercado: el producto principal de la organización es su objetivo final; no
+  se compite de frente, servicio contra servicio, contra los gigantes
+  comerciales (secciones "Kinam", "Captación de recursos" y "Cambio de
+  paradigma").
 - [Filosofía](./Filosofia.md), v1.1.0: la sección "El Inicio" incorpora la
   restricción legal (el token es un fondo de pago electrónico; el trámite de
   la CNBV tarda ~1 año). Nueva priorización: Centro de datos y Gateway de

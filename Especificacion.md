@@ -522,7 +522,7 @@ Esta regla se codifica como un smart contract que se ejecuta automáticamente cu
 
 - **Stack tecnológico de la blockchain** (ej: Hyperledger Besu, Quorum, Substrate, Geth con PoA, etc.) — se decide en implementación según madurez, gobernanza del proyecto, y licencia.
 - **Modelo de emisión del token** (1:1 respaldado, suministro fijo, u otro).
-- **Política de privacidad de transacciones** (todas públicas vs. algunas cifradas vs.选择性 disclosure).
+- **Política de privacidad de transacciones** (todas públicas vs. algunas cifradas vs. selectividad).
 - **Modelo de tarifas por transacción** (¿se cobra gas interno?).
 - **Número y distribución inicial de validadores.**
 - **Proceso formal de actualización de smart contracts.**

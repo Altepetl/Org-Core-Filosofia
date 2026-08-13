@@ -1,7 +1,7 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.1.0
+version: 1.4.0
 created: 2026-08-12
 updated: 2026-08-13
 ---
@@ -70,9 +70,23 @@ Es obvio que sentimientos de superioridad están en contra de todo, incluso de l
 
 #### Registro, no prohibición
 
-Toda actividad que en otro esquema organizacional sería prohibida, en el Altepetl se registra como proyecto y se marca como contradictoria con los valores de la organización.  Estos proyectos reciben un peso negativo en el sistema de priorización y caen al final de la lista de atención.  La organización no prohíbe, documenta.
+Toda actividad que en otro esquema organizacional sería prohibida, en el Altepetl se registra como proyecto y se marca como contradictoria con los valores de la organización.  Estos proyectos reciben un peso negativo en el sistema de priorización y no se atienden mientras su impacto negativo no se reduzca a un margen justo.  La organización no prohíbe, documenta.
 
-Esta decisión no es inocua para quien realiza la actividad: todos los participantes en el esquema de gobierno de la organización quedan marcados de forma permanente por las actividades que contradicen los valores del Altepetl.  El registro es inmutable y forma parte del historial de cada persona y de cada célula.  Por eso no se prohíbe nada: la marca histórica es más precisa y más difícil de eludir que cualquier regla escrita, porque no depende de una sanción, depende del registro.
+Esta decisión no es inocua para quien realiza la actividad: se guarda registro de las actividades que contradicen los valores del Altepetl, y ese registro forma parte del historial de cada persona y de cada célula.  El propósito del registro es identificar grupos y personas con malas intenciones.  Por eso no se prohíbe nada: el registro es más preciso y más difícil de eludir que cualquier regla escrita, porque no depende de una sanción, depende del registro.
+
+#### Quién determina qué es contrario a los valores
+
+Preguntarse "¿quién determina y aplica qué es contrario a los valores?" es una reducción simplista del contexto del Altepetl.  Solo plantear la idea revela una mentalidad de competencia, ajena a esta organización: la pregunta presupone que alguien concentra la autoridad para juzgar.  En un contexto de colaboración esto lo determina la razón —la razón de las personas que participan en la organización, a través de sus organismos de gobierno.
+
+El mecanismo es natural: desde la célula social más pequeña, los miembros del Calpulli dicen "esto va en contra de la vida", se registra y el proyecto no se atiende.  Si el proyecto escala de nivel, la Comunidad lo marca igual y se olvida.  No hay un juez central que decide; hay comunidades que razonan.
+
+#### Proyectos controversiales
+
+La mentalidad adecuada al contexto del Altepetl, para quien propone, es esta: tengo un proyecto que será controversial, porque tiene implicaciones que en un inicio parecen contrarias a la vida; entonces preparo un proyecto de investigación, datos, planificación y **análisis** robusto, y con todo eso como bandera camino por todas las escalas de la organización para defenderlo.  Quienes llevan el proyecto deben conquistar los corazones de su oposición.
+
+Y para quien revisa: la misión de cada consejo que evalúa el proyecto no es solo refutarlo, es complementarlo —buscar soluciones que reduzcan su impacto negativo.  Si al final no se obtiene consenso y el costo negativo no se reduce, el proyecto sigue pendiente: no cae al fondo de una lista interminable, simplemente no se atiende hasta que se alcance un margen de daño que pueda considerarse justo en comparación con el beneficio obtenido.
+
+Por ejemplo, el aborto: no se trata solo de prohibir o aprobar, se trata de resolver un problema más amplio.  Se apruebe o se prohíba, el trabajo de la organización es ese: buscar soluciones creativas, adaptadas a nuestro contexto actual, no al de hace cien años.
 
 #### Capital financiero privado
 
@@ -139,6 +153,10 @@ A grandes rasgos este proceso tendrá las siguientes características:
 El Kinam es el sistema económico y social que el Altepetl busca alcanzar.  Para llegar a él hay dos tiempos distintos que no se contradicen.
 
 El primer tiempo es abrupto y es la piedra angular que mueve todo: **cambiar las condiciones materiales del Calpulli**.  Sin ese cambio material concreto —recursos financieros, infraestructura, herramientas— ningún proceso posterior es posible.  Este cambio sí debe ser radical e inmediato en el momento en que un Calpulli se incorpora al Altepetl.
+
+Hay una precisión importante sobre el momento de esa incorporación: el proceso es por etapas.  Un Calpulli se integra al Altepetl cuando la plataforma ya está completa —con recursos financieros, técnicos y administrativos—, es decir, en una etapa ya avanzada del proyecto.  La organización no promete recursos que aún no tiene: primero construye la base (El Inicio, la captación, la plataforma) y solo entonces incorpora Calpullis con el compromiso material que sí puede cumplir.
+
+El proyecto inicia de buena fe.  La buena fe es precisamente lo que representa una colaboración: quienes participan en las primeras etapas lo hacen para construir la plataforma, no para recibir de inmediato lo que la plataforma todavía no puede dar.  El cambio abrupto de las condiciones materiales es el compromiso de la etapa madura, no del primer día.
 
 El segundo tiempo es lento, diverso y progresivo.  Una vez cambiadas las condiciones materiales, todo lo demás —el entorno, las relaciones sociales, las formas de producción, las formas de comunicación— empieza a moverse lentamente en la vertiente que el Altepetl propicia.  Al respetar la independencia e identidad de cada Calpulli, cada uno se mueve a su propio ritmo.  Este proceso diverso es el que, con el tiempo, alcanza el equilibrio que llamamos Kinam.
 
@@ -551,8 +569,9 @@ El objetivo es contar con una cloud propia de la organización.
 Dadas las condiciones y el costo, en lugar de solo ser infraestructura privada para la organización, para captar más fondos, se puede vender su uso a clientes privados.
 Esta venta es comercio puro: el cliente paga por un servicio, no adquiere participación ni control sobre la organización.  No se acepta capital financiero privado como inversión, solo como pago por servicios.
 Para esto, debemos ser un competidor real, en cuanto a costos y precio.
-Esto es fácilmente alcanzable, la ventaja que tiene la organización sobre los competidores comerciales es el trabajo comunitario, las aportaciones económicas.
-Fácilmente la organización Altepetl puede levantar una nube a muy bajo costo, en comparación con los proveedores comerciales actuales. Y después, quedarse con sus clientes.
+La ventaja de la organización sobre los competidores comerciales es el trabajo comunitario y las aportaciones económicas, que reducen de forma estructural el costo de desarrollo y adquisición de la infraestructura.
+Con esa ventaja la organización Altepetl puede levantar una nube a un costo menor que el de los proveedores comerciales actuales y, después, quedarse con sus clientes.
+La ventaja, sin embargo, tiene límites precisos que conviene declarar abiertamente: ver "Los límites del trabajo voluntario" en la sección Trabajo colaborativo.
 
 A este tipo de procesos, construcción, implantación, comercialización y apropiación de mercado le llamaremos: consolidación.
 
@@ -581,6 +600,8 @@ Si existe software libre, lo natural es que existan también servicios públicos
 
 Entonces, la organización social Altepetl, en lugar de usar terminales de pago de un proveedor privado, debe construir su propia pasarela de pagos y convertirse en un proveedor de servicios de pago, primero para su uso interno y segundo para clientes privados que encuentren en nuestro producto el servicio de más bajo costo en el mercado.
 
+Una aclaración esencial sobre la competencia: el Altepetl no construye un gateway de pagos para competir de frente, servicio contra servicio, contra los gigantes comerciales que ya existen.  Lo construye con todo lo que esta organización representa en objetivos y valores.  **Ese es el producto principal.**  Si el Altepetl apuesta por el mercado de medios de pagos, no es por el servicio en sí —que cualquier empresa con capital puede replicar— sino por el objetivo final que lo sostiene: cada peso procesado por la pasarela financia la base económica para la salud humana.  Contra eso una empresa comercial no puede competir, porque su propio diseño se lo impide: ofrecerlo significaría dejar de perseguir la maximización de la ganancia.
+
 Este proceso es lo que ya definimos como proceso de consolidación, replicar un proceso económico de alta demanda para uso de la organización, así como para la venta de servicios al sector comercial, maximizando la captación de ingresos a la organización Altepetl.
 Es importante reiterar: la consolidación es venta de servicios, no captación de capital.  El sector comercial paga por usar los servicios del Altepetl, no invierte en él.  La frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado.
 Para iniciar la captación de recursos del Altepetl, ni siquiera tenemos que ponernos creativos, basta con replicar servicios que son muy consumidos por la sociedad y que sean ellos las principales fuentes de ingreso para comenzar a mover esta organización.
@@ -597,6 +618,12 @@ Una empresa comercial rara vez podrá competir de igual a igual con una empresa 
 Por lo tanto, la consolidación del sector privado por parte de la organización comunitaria es un proceso natural y muy difícil de revertir: la comunidad es la que produce todo, y cualquier actor comercial que quisiera competir tendría que replicar esa misma base de apoyo voluntario, lo cual contradice su lógica de maximización de ganancia.
 
 Para que el sector privado pudiera ser competencia tendría que ceder la mayor parte de su ingreso al sector público, lo que resulta contradictorio a su mantra de “Maximizar la ganancia”.
+
+### Los límites del trabajo voluntario
+
+La ventaja del trabajo comunitario es real, pero hay que declarar con la misma claridad dónde termina.  El voluntariado reduce el costo de **desarrollo**; no elimina el costo de **operación**.  Operar un gateway de pagos o una nube exige, en efectivo y todos los meses: disponibilidad 24/7, cumplimiento regulatorio, seguridad, soporte, energía y niveles de servicio.  Esos costos no se pagan con horas de voluntariado ni con buena voluntad, y los competidores comerciales los dominan mejor que nadie.  Creer que la consolidación será fácil porque el desarrollo es barato sería subestimar al adversario: el servicio en sí es el terreno donde el competidor es más fuerte.
+
+Por eso la estrategia del Altepetl no se apoya en ganar una guerra de precios.  Se apoya en lo que el competidor no puede copiar: **el producto principal de la organización es una Causa**.  El cliente no elige la pasarela del Altepetl porque sea la más barata —puede no serlo al inicio— sino porque cada peso procesado financia el objetivo final.  El trabajo voluntario construye la base; la Causa conquista el mercado.  La primera es una ventaja de costos: real, pero parcial y defensible solo en el desarrollo.  La segunda es una ventaja estructural: ninguna empresa comercial puede ofrecerla sin dejar de ser lo que es.
 
 El trabajo más extenso y formal se puede consultar en: Global Ecosystem Dynamics, Marcelo Tedesco
 
@@ -736,7 +763,7 @@ El orden es:
 3. **Consenso.** Acuerdo documentado entre los participantes con derecho a voto.
 4. **Antigüedad en lista de espera.** El tiempo que el proyecto lleva registrado sin ser atendido.
 
-Ningún criterio inferior puede desplazar a uno superior.  Un proyecto con alto peso y alto consenso no se pospone por antigüedad; un proyecto que contradice los valores no sube en la lista por más consenso o antigüedad que acumule, cae al final con peso negativo.
+Ningún criterio inferior puede desplazar a uno superior.  Un proyecto con alto peso y alto consenso no se pospone por antigüedad; un proyecto que contradice los valores no sube en la lista por más consenso o antigüedad que acumule: recibe peso negativo y queda pendiente, sin atenderse, hasta que sus proponentes reduzcan su impacto negativo a un margen justo (ver "Proyectos controversiales" en la sección Valores).
 
 ## Sectores de Gobierno
 El Altepetl tendrá un esquema de gobierno para la toma de decisiones de 3 niveles.
@@ -831,6 +858,8 @@ El costo de producción de un producto de software es muy bajo en comparación c
 
 Para concentrar a las personas y llevarlas a nuestras plataformas, solo hace falta un movimiento con **Causa** y eso es justamente lo que la organización Altepetl, es.
 
+Este es el diferenciador de mercado del Altepetl y conviene decirlo sin rodeos: **el producto principal de la organización es su objetivo final**.  El usuario que elige la pasarela de pagos del Altepetl no elige solo un servicio, elige financiar la Causa.  Una empresa comercial puede replicar el servicio, la app o la terminal; no puede replicar la Causa sin dejar de ser lo que es.
+
 La organización Altepetl debe desarrollar plataformas de comunicación, de redes sociales, como primer paso, para poder darse a conocer y que la Causa de la organización se conozca, que esto comience a concentrar a más personas interesadas en participar y hacer crecer este trabajo.
 
 Son puntos que se fortalecen unos a otros, por un lado se obtienen ingresos por el uso de las plataformas, se incrementa la visibilidad de la organización, se concentran usuarios y se atraen participantes.  Es un ganar ganar para la organización.
@@ -879,6 +908,7 @@ Estos son los principales paradigmas que provocan un cambio total en el juego y 
 - Objetivo claro, la salud del hombre.
 - Cuidado de la vida y el entorno.
 - Reconocer la parte intangible del hombre.
+- Hacer que una Causa sea el promotor principal de venta de los productos y servicios de la organización.
 - Trabajar de forma adecuada a los paradigmas actuales.
 - Ausencia de estructuras rígidas.
 - Cambio radical de las condiciones materiales como detonante: el primer tiempo del proceso, abrupto e innegociable, sin el cual ningún otro cambio es posible.

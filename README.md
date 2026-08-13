@@ -111,7 +111,7 @@ los puntos clave.
 
 | Documento | Versión | Estado |
 |---|---|---|
-| Filosofía | 1.1.0 | stable — revisada, pulida, internamente coherente |
+| Filosofía | 1.3.0 | stable — revisada, pulida, internamente coherente |
 | Especificación del Inicio | 0.2.0 | draft — arquitectura definida, decisiones pendientes abiertas |
 | Marco de Gobernanza | 0.1.0 | draft — marco definido, decisiones pendientes abiertas |
 | Marco Legal de la Blockchain | 0.1.0 | draft — análisis definido, requiere validación de asesoría legal |

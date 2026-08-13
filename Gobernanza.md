@@ -194,13 +194,15 @@ expulsión por decisión de un tercero** salvo en los casos que la Constitución
 defina (pendiente). El registro histórico de la persona se preserva: perder un
 rol no borra la trayectoria.
 
-### Registro inmutable
+### Registro histórico
 
 Todo lo anterior queda registrado en la blockchain del Altepetl
 ([Org-Core-Blockchain](../Org-Core-Blockchain/README.md)). El historial de cada
-persona —trabajo, votaciones, cargos, marcas por actividades contrarias a los
-valores— es inmutable. Esto es la defensa principal contra la captura del
-sistema: no se puede reescribir el pasado.
+persona —trabajo, votaciones, cargos, actividades contrarias a los valores—
+queda registrado y es consultable. El propósito del registro es identificar
+grupos y personas con malas intenciones; la defensa contra la captura del
+sistema es la visibilidad de la trayectoria, no un sello perpetuo sobre la
+persona.
 
 ---
 
@@ -420,18 +422,22 @@ La plataforma, asistida por los agentes de IA del proyecto
 El cálculo es automático, replicable y auditable: cualquier participante puede
 ver cómo se llegó al peso de un proyecto.
 
-### Peso negativo y marca histórica
+### Peso negativo y registro
 
 Un proyecto que contradice los valores de la organización recibe **peso
-negativo** y cae al final de la lista. Esto es consistente con el principio de
-la Filosofía: *"el Altepetl no prohíbe, documenta"*.
+negativo** y queda pendiente, sin atenderse, hasta que sus proponentes
+reduzcan su impacto negativo a un margen justo. Esto es consistente con el
+principio de la Filosofía: *"el Altepetl no prohíbe, documenta"* (ver
+"Proyectos controversiales" en la Filosofía, sección Valores).
 
-Las actividades contrarias a los valores dejan una **marca permanente** en el
-historial de quienes las proponen o realizan. Esta marca:
+Las actividades contrarias a los valores quedan **registradas** en el
+historial de quienes las proponen o realizan. El propósito del registro es
+identificar grupos y personas con malas intenciones; no es una sanción ni un
+sello perpetuo, es información sobre la trayectoria. Este registro:
 
-- Es inmutable (reside en la blockchain).
-- Afecta el filtro por reputación: quien acumula marcas tiene menos
-  probabilidad de ser habilitado como candidato.
+- Afecta el filtro por reputación: quien acumula registros de actividades
+  contrarias a los valores tiene menos probabilidad de ser habilitado como
+  candidato.
 - No impide la participación: la persona sigue siendo participante con derecho
   a voto si cumple los requisitos, pero su trayectoria refleja lo que hizo.
 
