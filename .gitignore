@@ -44,3 +44,9 @@ wip/
 # (configuración local, no relevantes al repo)
 # -----------------------------------------------
 .markdownlint.cache
+
+# -----------------------------------------------
+# Archivos internos de la herramienta de trabajo
+# (planes, sesiones, cachés locales)
+# -----------------------------------------------
+.zcode/
