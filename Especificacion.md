@@ -1,9 +1,9 @@
 ---
 title: Especificación técnica del Inicio
 status: draft
-version: 0.1.0
+version: 0.2.0
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # Especificación técnica del Inicio
@@ -14,12 +14,22 @@ Este documento especifica arquitecturalmente los tres proyectos vitales que el d
 
 La sección "El Inicio" de la Filosofía establece:
 
-> Para iniciar se requiere de una serie de proyectos vitales que deben ser desarrollados a la par:
+> Para iniciar se requiere de una serie de proyectos vitales:
 > - Centro de datos
 > - Gateway de pagos
 > - Blockchain de Capa 1, con token nativo y mecanismo de consenso verde, que se define técnicamente como una **Blockchain Privada de Consorcio Único con Arquitectura de Oráculo Financiero**.
 
 Este documento convierte esa lista en una especificación arquitectural: define objetivos, componentes, dependencias, fases y criterios de aceptación, sin llegar al nivel de implementación de código (eso corresponde a los repositorios de cada proyecto).
+
+### Priorización por restricción legal
+
+La Filosofía (sección "Restricción legal del Inicio") establece una jerarquía que esta especificación adopta:
+
+1. **Prioridad 1: Centro de datos y Gateway de pagos.** El único ingreso inicial de la organización es el uso del Gateway de pagos como servicio.
+2. **Sin prioridad 1: la Blockchain + Oráculo.** Se desarrolla en paralelo, pero su operación con recursos reales está bloqueada por ley hasta obtener la autorización de la CNBV como IFPE: el token es un fondo de pago electrónico por sustancia y el trámite toma alrededor de un año. El análisis completo está en el [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md).
+3. **Contingencia comercial.** Si los proyectos de prioridad 1 terminan antes que el trámite legal, el esfuerzo continúa en desarrollos de uso comercial que generen ganancias: app de pagos, terminal física de pagos y el Punto de Venta como Core de una plataforma de aplicaciones comerciales (ver sección 5.7).
+
+Mientras no exista la autorización de IFPE, la blockchain y el token operan únicamente en entornos de desarrollo y prueba, sin fondos reales; los proyectos comerciales se venden como tecnología (licencia y operación), no como servicio de movimiento de dinero de terceros.
 
 ### Por qué estos tres proyectos y no otros
 
@@ -315,6 +325,16 @@ El token nativo está **respaldado 1:1** por los fondos fiat en tesorería, al m
 - **Política del modelo de respaldo del token** (1:1 fiat, respaldo parcial, u otro) y si evoluciona en el tiempo.
 - **Comisiones** por uso del gateway (internas vs. externas).
 
+### 5.7 Proyectos comerciales de contingencia
+
+Si el Centro de datos y el Gateway quedan completos antes de que concluya el trámite de autorización ante la CNBV, el desarrollo no se detiene: continúa con productos comerciales que monetizan la infraestructura ya construida. En orden de adaptación natural:
+
+1. **App de pagos.** Aplicación de pagos construida sobre el Gateway propio. Es el producto que más directamente aprovecha la adquirencia y la conciliación ya implementadas.
+2. **Terminal física de pagos.** Terminal de cobro para comercios, conectada al Gateway. Extiende la captación del mundo digital al físico.
+3. **Punto de Venta (Core).** No un punto de venta completo: el núcleo de una plataforma de aplicaciones. Sobre ese Core se construyen después los servicios de venta de productos: tiendas físicas (mini super) y tienda en línea (a la manera de Amazon o Walmart).
+
+Mientras no exista la autorización de IFPE, estos proyectos se comercializan como **tecnología** (licencia y operación de software y hardware), no como servicio de movimiento de dinero de terceros. Su función es doble: generar los ingresos que sostienen a la organización durante el trámite, y ejercitar la infraestructura del Gateway y del Centro de datos sobre casos de uso reales, de modo que la blockchain y el token se monten al final sobre una base ya operada y probada.
+
 ---
 
 ## 6. Blockchain + Oráculo Financiero
@@ -545,7 +565,11 @@ Esta regla se codifica como un smart contract que se ejecuta automáticamente cu
 
 ### Punto de bloqueo mínimo para "salir a producción"
 
-Para que el Inicio se considere funcional —es decir, para que el Altepetl pueda captar, registrar y distribuir recursos— deben estar operativos:
+Salir a producción con fondos reales tiene **dos puertas**: una legal y una técnica. La legal va primero:
+
+0. **Puerta legal (bloqueante):** autorización de la CNBV como IFPE, o alianza vigente con una IFPE existente que emita y custodie los fondos. Sin ella, ningún componente opera con dinero de terceros, sin importar su madurez técnica. Ver [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md).
+
+Cumplida la puerta legal, para que el Inicio se considere funcional —es decir, para que el Altepetl pueda captar, registrar y distribuir recursos— deben estar operativos:
 
 1. Centro de Datos Fase 0.
 2. Blockchain Fase 0 con token nativo desplegado.
@@ -567,7 +591,7 @@ Consolidación de todas las decisiones que esta especificación deja abiertas. C
 | 3 | Política de adquisición de hardware | Equipo de infraestructura | Fase 0 |
 | 4 | Stack de virtualización / orquestación | Equipo de infraestructura | Fase 0 |
 | 5 | Jurisdicción bancaria de las cuentas | Organización Altepetl | Antes de Fase 0 |
-| 6 | Compliance KYC/AML | Equipo legal / financiero | Fase 1 |
+| 6 | Compliance KYC/AML | Equipo legal / financiero | Antes de Fase 0 |
 | 7 | Procesador de tarjetas externo inicial | Equipo de pagos | Fase 1 |
 | 8 | Política de respaldo del token | Organización Altepetl | Antes de Fase 0 |
 | 9 | Comisiones del gateway | Organización Altepetl | Fase 1 |
@@ -577,6 +601,8 @@ Consolidación de todas las decisiones que esta especificación deja abiertas. C
 | 13 | Modelo de tarifas (gas) | Equipo de blockchain | Fase 1 |
 | 14 | Número y distribución inicial de validadores | Organización Altepetl | Fase 1 |
 | 15 | Proceso formal de actualización de smart contracts | Organización Altepetl | Fase 1 |
+| 16 | Ruta legal del token: autorización IFPE propia vs. alianza con una IFPE existente | Organización Altepetl | Antes de Fase 0 |
+| 17 | Alcance comercial de los proyectos de contingencia (app de pagos, terminal física, Punto de Venta Core) | Organización Altepetl | Fase 0 |
 
 Las decisiones marcadas "Antes de Fase 0" son bloqueantes para iniciar la construcción. Las de "Fase 0" pueden tomarse durante el desarrollo inicial. Las de "Fase 1" pueden posponerse sin bloquear el MVP.
 
@@ -584,7 +610,7 @@ Las decisiones marcadas "Antes de Fase 0" son bloqueantes para iniciar la constr
 
 ## 9. Criterios de aceptación del MVP
 
-El Inicio se considera completo cuando se cumplen **todos** los siguientes criterios:
+El Inicio se considera completo cuando se cumplen **todos** los siguientes criterios. Los criterios técnicos se verifican en entorno de desarrollo o pruebas; la operación con fondos reales exige además el criterio legal.
 
 ### Centro de Datos
 
@@ -614,9 +640,13 @@ El Inicio se considera completo cuando se cumplen **todos** los siguientes crite
 - [ ] Al menos 1 validador operativo (puede ser humano en Fase 0).
 - [ ] Mecanismo de disputa documentado (aunque no esté automatizado).
 
+### Legal
+
+- [ ] Autorización de la CNBV como IFPE obtenida, o alianza vigente con una IFPE existente, antes de operar cualquier componente con fondos reales de terceros.
+
 ### Integración
 
-- [ ] Flujo completo probado de extremo a extremo: pago → registro on-chain → distribución automática por smart contract.
+- [ ] Flujo completo probado de extremo a extremo en entorno de pruebas: pago → registro on-chain → distribución automática por smart contract.
 - [ ] Documentación operativa del flujo completo.
 - [ ] Al menos una auditoría externa (incluso informal) del flujo.
 
@@ -624,12 +654,15 @@ El Inicio se considera completo cuando se cumplen **todos** los siguientes crite
 
 ## 10. Referencias
 
-- [Filosofía del Altepetl](./Filosofia.md) — fuente de los principios y definiciones de los proyectos del Inicio.
+- [Filosofía del Altepetl](./Filosofia.md) — fuente de los principios y definiciones de los proyectos del Inicio, incluida la priorización por restricción legal.
+- [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md) — por qué el token es un fondo de pago electrónico y qué exige la ley mexicana para operarlo; fuente de la puerta legal de la sección 7.
 - [Pensamiento Crítico](https://github.com/Altepetl/Org-Core-CriticalThinking) — marco de análisis que rige la toma de decisiones del Altepetl.
 - Estándares de gestión referenciados en la Filosofía: ISO 27001 (seguridad de la información), ISO 20000 (gestión de servicios de TI), COBIT (gobierno de TI), ITIL (gestión de servicios).
 
 ---
 
 ## Notas de versión
+
+**0.2.0 (2026-08-13):** Alineación con la restricción legal definida en la Filosofía y el documento [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md). Se establece la priorización del Inicio (Centro de datos y Gateway con prioridad 1; blockchain en paralelo sin prioridad 1, bloqueada para fondos reales hasta la autorización de la CNBV como IFPE). Se agrega la sección 5.7 con los proyectos comerciales de contingencia (app de pagos, terminal física, Punto de Venta Core). La salida a producción ahora tiene una puerta legal explícita (sección 7) y un criterio de aceptación legal (sección 9). La decisión #6 (KYC/AML) se reclasifica como bloqueante previa a Fase 0 y se agregan las decisiones #16 (ruta legal del token) y #17 (alcance de los proyectos de contingencia).
 
 **0.1.0 (2026-08-12):** Versión inicial. Especifica arquitecturalmente los tres proyectos del Inicio (Centro de Datos, Gateway de Pagos, Blockchain + Oráculo Financiero) con fases, dependencias y criterios de aceptación del MVP. Las decisiones de implementación (lenguajes, frameworks, tecnologías concretas) se dejan abiertas para los repositorios de cada proyecto.

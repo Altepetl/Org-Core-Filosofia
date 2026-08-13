@@ -1,9 +1,9 @@
 ---
 title: Organización Altepetl
-status: draft
-version: 0.1.0
+status: stable
+version: 1.1.0
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # Altepetl
@@ -602,12 +602,35 @@ El trabajo más extenso y formal se puede consultar en: Global Ecosystem Dynamic
 
 # El Inicio
 
-Para iniciar se requiere de una serie de proyectos vitales que deben ser desarrollados a la par.
+Para iniciar se requiere de una serie de proyectos vitales.
 - Centro de datos
 - Gateway de pagos
 - Blockchain de Capa 1, con token nativo y mecanismo de consenso verde, que se define técnicamente como una **Blockchain Privada de Consorcio Único con Arquitectura de Oráculo Financiero**.
 
 Esta es la base mínima necesaria para comenzar, en principio, con la captación de recursos y la administración pública de los mismos.
+
+## Restricción legal del Inicio
+
+La blockchain del Altepetl emite un token redimible a la par contra pesos, lo cual la convierte, por sustancia económica, en un fondo de pago electrónico conforme al artículo 23 de la Ley Fintech.  Operarlo con recursos reales requiere la autorización de la CNBV como IFPE.  El análisis completo está en el documento [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md).
+
+Esto tiene una consecuencia práctica directa sobre el Inicio: el objetivo de captar y distribuir recursos a través del token **no puede cumplirse de inmediato**, porque el trámite de autorización ante la CNBV tarda alrededor de un año.  Por lo tanto:
+
+- El desarrollo de la blockchain **sí se realiza**, pero **no con prioridad 1**: su operación con recursos reales queda bloqueada hasta obtener la autorización legal.
+- El Inicio se ejecuta con dos proyectos prioritarios: el **Centro de datos** y el **Gateway de pagos**.  El único ingreso inicial de la organización será el uso del Gateway de pagos como servicio.
+
+## Mientras concluye el trámite legal
+
+Si el Centro de datos y el Gateway de pagos quedan completos antes de que concluya el trámite legal, la organización no se detiene: continúa con **desarrollos de uso comercial** que generen ganancias por la venta de servicios y productos (comercio, no captación de capital, conforme a la sección "Capital financiero privado").
+
+Los proyectos que se adaptan de forma más natural a esta etapa, en orden:
+
+1. **App de pagos** — aplicación de pagos construida sobre el Gateway propio.
+2. **Terminal física de pagos** — terminal para cobros en comercios, sobre la misma infraestructura.
+3. **Punto de Venta (Core)** — no un punto de venta completo, sino el **núcleo de una plataforma de aplicaciones**.  Sobre ese Core se construyen después los servicios de venta de productos: tiendas físicas (mini super) y tienda en línea (al estilo de Amazon o Walmart).
+
+Una precisión necesaria para mantener la coherencia con el marco legal: mientras no exista la autorización de IFPE, estos proyectos se comercializan como **tecnología** (licencia y operación del Gateway, la app, la terminal y el Punto de Venta); el movimiento de dinero de terceros sigue bloqueado hasta concluir el trámite.
+
+Estos proyectos comerciales cumplen una doble función: generan los ingresos que sostienen a la organización mientras llega la autorización, y ejercitan sobre casos reales la infraestructura del Gateway y del Centro de datos, de modo que cuando la autorización legal llegue, la blockchain y el token se monten sobre una base ya operada y probada.
 
 ## Blockchain del Altepetl
 

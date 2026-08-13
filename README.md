@@ -19,13 +19,14 @@ demás que se construya bajo el nombre Altepetl.
 
 ## Documentos
 
-Tres documentos, cada uno con un rol distinto:
+Cada uno de estos documentos con un rol distinto:
 
 | Documento | Rol | Pregunta que responde |
 |---|---|---|
 | [**Filosofía**](./Filosofia.md) | Fundacional | ¿Por qué existimos y qué buscamos? |
 | [**Especificación del Inicio**](./Especificacion.md) | Técnico | ¿Qué construimos primero y cómo? |
 | [**Marco de Gobernanza**](./Gobernanza.md) | Operativo | ¿Cómo decidimos y operamos? |
+| [**Marco Legal de la Blockchain**](./LegalBlockchain.md) | Legal | ¿Qué exige la ley para operar la blockchain y el token? |
 
 ### Filosofía
 
@@ -56,6 +57,16 @@ Opera los principios definidos en la Filosofía: los tres niveles de gobierno
 los procedimientos clave (priorización, Tlahtocan, enmienda, elecciones,
 disputas) y los límites de la automatización.
 
+### Marco Legal de la Blockchain
+
+Establece el encuadre legal del token bajo la legislación mexicana: el
+antecedente histórico de la Ley Fintech, los dos caminos legales (fondo de
+pago electrónico vs. activo virtual), por qué el token del Altepetl es un
+fondo de pago electrónico por sustancia, y la lista de requisitos para
+operarlo (autorización de la CNBV como IFPE, capital mínimo, PLD, reglas de
+Banxico). Acota la Especificación: la blockchain opera con fondos reales solo
+tras la autorización.
+
 ## Relación entre los documentos
 
 ```
@@ -69,11 +80,15 @@ Especificación (cómo técnico)   Gobernanza (cómo operativo)
     3 repos del Inicio      Plataforma digital
     (DataCenter, Payments,  (registra historiales,
      Blockchain)              decisiones, pesos)
+            ▲
+            │  acota (qué permite la ley)
+            │
+    Marco Legal de la Blockchain
 ```
 
-Los tres documentos se referencian entre sí y deben mantenerse **coherentemente
-alineados**. Un cambio en cualquiera debe revisarse contra los otros dos para
-evitar contradicciones. El proceso de contribución (ver
+Los cuatro documentos se referencian entre sí y deben mantenerse
+**coherentemente alineados**. Un cambio en cualquiera debe revisarse contra
+los otros tres para evitar contradicciones. El proceso de contribución (ver
 [CONTRIBUTING.md](./CONTRIBUTING.md)) está diseñado para garantizar esa
 coherencia.
 
@@ -96,14 +111,16 @@ los puntos clave.
 
 | Documento | Versión | Estado |
 |---|---|---|
-| Filosofía | 1.0.0 | stable — revisada, pulida, internamente coherente |
-| Especificación del Inicio | 0.1.0 | draft — arquitectura definida, decisiones pendientes abiertas |
+| Filosofía | 1.1.0 | stable — revisada, pulida, internamente coherente |
+| Especificación del Inicio | 0.2.0 | draft — arquitectura definida, decisiones pendientes abiertas |
 | Marco de Gobernanza | 0.1.0 | draft — marco definido, decisiones pendientes abiertas |
+| Marco Legal de la Blockchain | 0.1.0 | draft — análisis definido, requiere validación de asesoría legal |
 
 El documento de Filosofía está estable: pasó por una revisión completa que
 resolvió inconsistencias lógicas, errores factuales y de forma. La
-Especificación y la Gobernanza están en draft: definen el marco pero dejan
-decisiones operativas abiertas, marcadas explícitamente en cada documento.
+Especificación, la Gobernanza y el Marco Legal están en draft: definen el
+marco pero dejan decisiones operativas abiertas, marcadas explícitamente en
+cada documento.
 
 ## Cómo contribuir
 
@@ -142,6 +159,7 @@ Filosofia/
 ├── Filosofia.md               # Documento fundacional
 ├── Especificacion.md          # Especificación técnica del Inicio
 ├── Gobernanza.md              # Marco de gobernanza
+├── LegalBlockchain.md         # Marco legal de la blockchain (IFPE / Ley Fintech)
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE

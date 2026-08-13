@@ -8,6 +8,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- [Marco legal de la blockchain](./LegalBlockchain.md), v0.1.0 draft:
+  antecedente histórico de la regulación mexicana de dinero electrónico, los
+  dos caminos legales (fondo de pago electrónico vs. activo virtual), la
+  argumentación de por qué el token del Altepetl es un fondo de pago
+  electrónico por sustancia, y la lista de requisitos legales para operarlo
+  (autorización CNBV como IFPE, capital mínimo, PLD, Circular 12/2018 y
+  4/2019 de Banxico, LFPDPPP).
+
+### Changed
+- [Filosofía](./Filosofia.md), v1.1.0: la sección "El Inicio" incorpora la
+  restricción legal (el token es un fondo de pago electrónico; el trámite de
+  la CNBV tarda ~1 año). Nueva priorización: Centro de datos y Gateway de
+  pagos con prioridad 1; blockchain en desarrollo paralelo sin prioridad 1.
+  Nueva subsección "Mientras concluye el trámite legal" con los proyectos
+  comerciales de contingencia (app de pagos, terminal física, Punto de Venta
+  Core).
+- [Especificación del Inicio](./Especificacion.md), v0.2.0: alineación con la
+  restricción legal. Priorización del Inicio, sección 5.7 (proyectos
+  comerciales de contingencia), puerta legal bloqueante para producción
+  (sección 7), criterio de aceptación legal (sección 9), decisión #6
+  (KYC/AML) reclasificada como bloqueante previa a Fase 0, nuevas decisiones
+  #16 (ruta legal del token) y #17 (alcance de proyectos de contingencia).
+
+### Estructura del repositorio (cambio previo)
 - Estructura estándar de repositorio: LICENSE (MIT), .gitignore,
   CONTRIBUTING.md, README.md y plantillas de .github (issue templates:
   inconsistencia / corrección / propuesta; PR template; CODEOWNERS;
