@@ -8,6 +8,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- [Capital inicial necesario](./CapitalInicialNecesario.md), v0.1.0 draft:
+  presupuesto de arranque formal del Altepetl. Detalla los costos de
+  constitución de la A.C. donataria y de la empresa comercial, los contratos y
+  asesorías entre ambas, la operación inicial (sueldos y costos recurrentes) y
+  la infraestructura técnica (centro de datos). Establece la regla de las dos
+  bolsas (A.C. financiada con donativos, empresa con capital social), la
+  distinción administrativo vs. misional aplicada desde el día 1 y el
+  presupuesto consolidado por escenario. Estimación referencial basada en
+  costos de mercado 2025–2026.
+- [Marco legal organizacional](./MarcoLegalOrganizacional.md), v0.1.0 draft:
+  arquitectura legal multi-entidad del Altepetl. Define la A.C. donataria
+  (capta donativos, genera conocimiento civil) y la empresa comercial de TI
+  (productiza y vende), unidas por un contrato de licencia de tecnología.
+  Establece la regla de división de activos (software en la A.C., hardware en
+  la empresa), los límites fiscales que el diseño respeta (5% de
+  administración, 50% de actividades no relacionadas, destino exclusivo de
+  activos), el objeto social sugerido (Desarrollo Social), las opciones de
+  propiedad entre las dos entidades (Opción C, participación minoritaria,
+  recomendada) y el ciclo completo de captación, construcción y venta en cinco
+  fases. Complementa al Marco Legal de la Blockchain.
 - [Marco legal de la blockchain](./LegalBlockchain.md), v0.1.0 draft:
   antecedente histórico de la regulación mexicana de dinero electrónico, los
   dos caminos legales (fondo de pago electrónico vs. activo virtual), la

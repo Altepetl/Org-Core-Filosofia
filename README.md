@@ -26,6 +26,8 @@ Cada uno de estos documentos con un rol distinto:
 | [**Filosofía**](./Filosofia.md) | Fundacional | ¿Por qué existimos y qué buscamos? |
 | [**Especificación del Inicio**](./Especificacion.md) | Técnico | ¿Qué construimos primero y cómo? |
 | [**Marco de Gobernanza**](./Gobernanza.md) | Operativo | ¿Cómo decidimos y operamos? |
+| [**Marco Legal Organizacional**](./MarcoLegalOrganizacional.md) | Legal | ¿Qué figuras jurídicas constituimos y cómo fluyen los fondos entre ellas? |
+| [**Capital Inicial Necesario**](./CapitalInicialNecesario.md) | Financiero | ¿Cuánto cuesta arrancar y con qué se paga cada cosa? |
 | [**Marco Legal de la Blockchain**](./LegalBlockchain.md) | Legal | ¿Qué exige la ley para operar la blockchain y el token? |
 
 ### Filosofía
@@ -67,28 +69,51 @@ operarlo (autorización de la CNBV como IFPE, capital mínimo, PLD, reglas de
 Banxico). Acota la Especificación: la blockchain opera con fondos reales solo
 tras la autorización.
 
+### Marco Legal Organizacional
+
+Define la arquitectura legal multi-entidad del Altepetl: la A.C. donataria que
+capta donativos deducibles y genera conocimiento civil, y la empresa comercial
+que productiza y vende. Establece la regla de división de activos (software en
+la A.C., hardware en la empresa), los límites fiscales que el diseño respeta
+(5% de administración, 50% de actividades no relacionadas), el objeto social
+sugerido (Desarrollo Social) y el ciclo completo en cinco fases. Complementa al
+Marco Legal de la Blockchain: ese define el encuadre del token, este define el
+encuadre de las figuras que lo alojan.
+
+### Capital Inicial Necesario
+
+Detalla qué requiere dinero para que el Altepetl arranque de manera formal:
+constitución de las dos entidades, contratos y asesorías entre ambas, operación
+inicial (sueldos y costos recurrentes) e infraestructura técnica. Establece la
+regla de las dos bolsas (la A.C. se financia con donativos, la empresa con
+capital social) y consolida el presupuesto por escenario (mínimo viable, medio,
+ambicioso). Estimación referencial basada en costos de mercado 2025–2026.
+
 ## Relación entre los documentos
 
 ```
                   Filosofía (por qué / qué)
                        │
-            ┌──────────┴──────────┐
-            ▼                     ▼
-Especificación (cómo técnico)   Gobernanza (cómo operativo)
-            │                     │
-            ▼                     ▼
-    3 repos del Inicio      Plataforma digital
-    (DataCenter, Payments,  (registra historiales,
-     Blockchain)              decisiones, pesos)
-            ▲
+            ┌──────────┼──────────┐
+            ▼          ▼          ▼
+Especificación     Gobernanza   Marco Legal
+(cómo técnico)   (cómo operativo)  Organizacional
+            │          │       (figuras jurídicas
+            ▼          ▼        y flujo de fondos)
+    3 repos del   Plataforma          │
+    Inicio        digital             │
+    (DataCenter,  (registra           ▼
+     Payments,    historiales,  Marco Legal de la
+     Blockchain)   decisiones,  Blockchain
+                  pesos)       (qué exige la ley
+            ▲                  para el token)
             │  acota (qué permite la ley)
-            │
-    Marco Legal de la Blockchain
+            └────────────────┘
 ```
 
-Los cuatro documentos se referencian entre sí y deben mantenerse
+Los cinco documentos se referencian entre sí y deben mantenerse
 **coherentemente alineados**. Un cambio en cualquiera debe revisarse contra
-los otros tres para evitar contradicciones. El proceso de contribución (ver
+los otros cuatro para evitar contradicciones. El proceso de contribución (ver
 [CONTRIBUTING.md](./CONTRIBUTING.md)) está diseñado para garantizar esa
 coherencia.
 
@@ -114,12 +139,14 @@ los puntos clave.
 | Filosofía | 1.3.0 | stable — revisada, pulida, internamente coherente |
 | Especificación del Inicio | 0.2.0 | draft — arquitectura definida, decisiones pendientes abiertas |
 | Marco de Gobernanza | 0.1.0 | draft — marco definido, decisiones pendientes abiertas |
+| Marco Legal Organizacional | 0.1.0 | draft — arquitectura definida, requiere validación de asesoría legal |
+| Capital Inicial Necesario | 0.1.0 | draft — estimación definida, requiere cotización formal con proveedores |
 | Marco Legal de la Blockchain | 0.1.0 | draft — análisis definido, requiere validación de asesoría legal |
 
 El documento de Filosofía está estable: pasó por una revisión completa que
 resolvió inconsistencias lógicas, errores factuales y de forma. La
-Especificación, la Gobernanza y el Marco Legal están en draft: definen el
-marco pero dejan decisiones operativas abiertas, marcadas explícitamente en
+Especificación, la Gobernanza y los dos Marcos Legales están en draft: definen
+el marco pero dejan decisiones operativas abiertas, marcadas explícitamente en
 cada documento.
 
 ## Cómo contribuir
