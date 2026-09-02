@@ -49,13 +49,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   servicios se ponen al disposición de la población para emprendimientos
   productivos, comenzando por la cadena de producción, distribución y
   comercialización de alimentos, que la organización busca consolidar.
-- [Filosofía](./Filosofia.md), v1.5.0: nueva subsección "Consolidación" dentro
-  de "Tecnología" que fija el término con precisión: definición del ciclo en
+- [Filosofía](./Filosofia.md), v1.5.0: nueva sección independiente
+  "Consolidación" que fija el término con precisión: definición del ciclo en
   cuatro fases (construcción, implantación, comercialización y apropiación de
   mercado), sus dos fronteras (venta de servicios, no captación de capital;
-  la ventaja del trabajo voluntario cubre el desarrollo, no la operación) y un
-  ejemplo detallado con la nube propia del Altepetl recorriendo el ciclo
-  completo. Referencia cruzada actualizada en "Captación de recursos".
+  la ventaja del trabajo voluntario cubre el desarrollo, no la operación) y
+  dos ejemplos detallados: la nube propia del Altepetl y la red de
+  producción, distribución y comercialización de alimentos, recorriendo el
+  ciclo completo. Se declara que el mismo ciclo se aplicará al resto de los
+  sectores y actividades productivas. Referencias cruzadas actualizadas en
+  "Tecnología", "Captación de recursos" y "Etapas posteriores".
 - [Filosofía](./Filosofia.md), v1.4.0: resolución de la controversia sobre
   proyectos contrarios a los valores. En "Registro, no prohibición" los
   proyectos contradictorios ya no caen al final de la lista: reciben peso

@@ -590,28 +590,7 @@ En el terreno de la tecnología la organización Altepetl necesita consolidar to
 
 El core de todo esto será, que así como TI representa un gasto muy grande dentro de la organización, TI también debe representar el ingreso más alto directo de efectivo, a través de la consolidación de servicios y aplicaciones de TI.
 
-### Consolidación
-
-La consolidación es el proceso completo por el cual el Altepetl convierte una necesidad tecnológica propia en una fuente de ingresos: identifica un servicio de alta demanda en el mercado, lo construye con recursos propios, lo implanta primero para uso interno, lo comercializa después hacia clientes externos y, sostenido por su ventaja de costos y por la Causa, termina por quedarse con una porción de ese mercado.  No es una forma abstracta de decir "crecer": es un ciclo concreto con cuatro fases.
-
-1. **Construcción** — el servicio se desarrolla con trabajo comunitario, software libre y aportaciones económicas, lo que reduce de forma estructural su costo de desarrollo frente al de un competidor comercial.
-2. **Implantación** — el servicio entra en operación primero para uso interno de la organización, donde se ejercita y se prueba sobre casos reales antes de ofrecerlo fuera.
-3. **Comercialización** — una vez probado, se ofrece a clientes privados a precios competitivos.  Esta venta es comercio puro: el cliente paga por un servicio, no adquiere participación ni control sobre la organización.
-4. **Apropiación de mercado** — sostenido por la ventaja de costos y por la Causa, el servicio va atrayendo a los clientes de los proveedores comerciales existentes.
-
-La consolidación tiene dos fronteras que conviene tener siempre presentes.  La primera es de principios: es venta de servicios, no captación de capital; la frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado (ver "Capital financiero privado").  La segunda es operativa: la ventaja del trabajo voluntario reduce el costo de desarrollo, no el de operación; por eso la consolidación no se gana en una guerra de precios, sino en el diferenciador estructural, la Causa (ver "Los límites del trabajo voluntario").
-
-#### Ejemplo: la nube del Altepetl
-
-El caso de la cloud propia, descrito en los párrafos anteriores, recorre el ciclo completo:
-
-1. La organización necesita infraestructura de cómputo para sus propios servicios; rentarla a proveedores comerciales sería uno de sus gastos más altos.
-2. Con trabajo comunitario y aportaciones construye su propio centro de datos y su propia nube, a un costo de desarrollo menor que el de los proveedores comerciales (**construcción**).
-3. La nube opera primero para los servicios internos del Altepetl, donde se prueba y se estabiliza (**implantación**).
-4. Una vez probada, la capacidad sobrante se ofrece como servicio a clientes privados, a precios competitivos (**comercialización**).
-5. Los clientes migran no solo por el precio —que al inicio puede no ser el más bajo— sino porque contratar la nube del Altepetl es financiar la Causa; con el tiempo, la organización se queda con una porción del mercado de los proveedores comerciales (**apropiación de mercado**).
-
-El resultado es que un gasto se convierte en ingreso: lo que era el centro de costos más alto de la organización pasa a ser su fuente de ingreso directo más alta.  Cada consolidación posterior —pasarela de pagos, app, terminal, punto de venta— repite el mismo ciclo.
+El proceso de consolidación no es exclusivo de la tecnología; se define con detalle, con sus fases y ejemplos, en la sección "Consolidación".
 
 ## Captación de recursos
 
@@ -636,7 +615,7 @@ Entonces, la organización social Altepetl, en lugar de usar terminales de pago 
 
 Una aclaración esencial sobre la competencia: el Altepetl no construye un gateway de pagos para competir de frente, servicio contra servicio, contra los gigantes comerciales que ya existen.  Lo construye con todo lo que esta organización representa en objetivos y valores.  **Ese es el producto principal.**  Si el Altepetl apuesta por el mercado de medios de pagos, no es por el servicio en sí —que cualquier empresa con capital puede replicar— sino por el objetivo final que lo sostiene: cada peso procesado por la pasarela financia la base económica para la salud humana.  Contra eso una empresa comercial no puede competir, porque su propio diseño se lo impide: ofrecerlo significaría dejar de perseguir la maximización de la ganancia.
 
-Este proceso es lo que ya definimos como proceso de consolidación (ver "Consolidación" en la sección Tecnología), replicar un proceso económico de alta demanda para uso de la organización, así como para la venta de servicios al sector comercial, maximizando la captación de ingresos a la organización Altepetl.
+Este proceso es lo que ya definimos como proceso de consolidación (ver la sección "Consolidación"), replicar un proceso económico de alta demanda para uso de la organización, así como para la venta de servicios al sector comercial, maximizando la captación de ingresos a la organización Altepetl.
 Es importante reiterar: la consolidación es venta de servicios, no captación de capital.  El sector comercial paga por usar los servicios del Altepetl, no invierte en él.  La frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado.
 Para iniciar la captación de recursos del Altepetl, ni siquiera tenemos que ponernos creativos, basta con replicar servicios que son muy consumidos por la sociedad y que sean ellos las principales fuentes de ingreso para comenzar a mover esta organización.
 
@@ -660,6 +639,42 @@ La ventaja del trabajo comunitario es real, pero hay que declarar con la misma c
 Por eso la estrategia del Altepetl no se apoya en ganar una guerra de precios.  Se apoya en lo que el competidor no puede copiar: **el producto principal de la organización es una Causa**.  El cliente no elige la pasarela del Altepetl porque sea la más barata —puede no serlo al inicio— sino porque cada peso procesado financia el objetivo final.  El trabajo voluntario construye la base; la Causa conquista el mercado.  La primera es una ventaja de costos: real, pero parcial y defensible solo en el desarrollo.  La segunda es una ventaja estructural: ninguna empresa comercial puede ofrecerla sin dejar de ser lo que es.
 
 El trabajo más extenso y formal se puede consultar en: Global Ecosystem Dynamics, Marcelo Tedesco
+
+## Consolidación
+
+La consolidación es el proceso completo por el cual el Altepetl toma un proceso económico de alta demanda y lo convierte en infraestructura propia y en fuente de ingresos: identifica el proceso en el mercado, lo construye con recursos propios, lo implanta primero para uso interno, lo comercializa después hacia clientes externos y, sostenido por su ventaja de costos y por la Causa, termina por quedarse con una porción de ese mercado.  No es una forma abstracta de decir "crecer": es un ciclo concreto con cuatro fases.
+
+1. **Construcción** — el servicio o proceso se desarrolla con trabajo comunitario y aportaciones económicas, lo que reduce de forma estructural su costo frente al de un competidor comercial.
+2. **Implantación** — entra en operación primero para uso interno de la organización, donde se ejercita y se prueba sobre casos reales antes de ofrecerlo fuera.
+3. **Comercialización** — una vez probado, se ofrece a clientes privados a precios competitivos.  Esta venta es comercio puro: el cliente paga por un servicio, no adquiere participación ni control sobre la organización.
+4. **Apropiación de mercado** — sostenido por la ventaja de costos y por la Causa, el servicio va atrayendo a los clientes de los proveedores comerciales existentes.
+
+La consolidación tiene dos fronteras que conviene tener siempre presentes.  La primera es de principios: es venta de servicios, no captación de capital; la frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado (ver "Capital financiero privado").  La segunda es operativa: la ventaja del trabajo voluntario reduce el costo de desarrollo, no el de operación; por eso la consolidación no se gana en una guerra de precios, sino en el diferenciador estructural, la Causa (ver "Los límites del trabajo voluntario").
+
+### Ejemplo: la nube del Altepetl
+
+El caso de la cloud propia, descrito en la sección Tecnología, recorre el ciclo completo:
+
+1. La organización necesita infraestructura de cómputo para sus propios servicios; rentarla a proveedores comerciales sería uno de sus gastos más altos.
+2. Con trabajo comunitario y aportaciones construye su propio centro de datos y su propia nube, a un costo de desarrollo menor que el de los proveedores comerciales (**construcción**).
+3. La nube opera primero para los servicios internos del Altepetl, donde se prueba y se estabiliza (**implantación**).
+4. Una vez probada, la capacidad sobrante se ofrece como servicio a clientes privados, a precios competitivos (**comercialización**).
+5. Los clientes migran no solo por el precio —que al inicio puede no ser el más bajo— sino porque contratar la nube del Altepetl es financiar la Causa; con el tiempo, la organización se queda con una porción del mercado de los proveedores comerciales (**apropiación de mercado**).
+
+El resultado es que un gasto se convierte en ingreso: lo que era el centro de costos más alto de la organización pasa a ser su fuente de ingreso directo más alta.  Cada consolidación posterior —pasarela de pagos, app, terminal, punto de venta— repite el mismo ciclo.
+
+### Ejemplo: la comercialización de alimentos
+
+La consolidación no se agota en la tecnología.  Como se plantea en la sección "Etapas posteriores", una vez alcanzada la madurez tecnológica y financiera, la organización pone sus servicios a disposición de la población para emprendimientos productivos, comenzando por la alimentación.  El ciclo es el mismo:
+
+1. Sobre la infraestructura tecnológica ya consolidada —gateway de pagos, centro de datos, punto de venta, tienda en línea— la organización construye la red de producción, distribución y comercialización de alimentos: financia los proyectos productivos de la población y opera la logística y los canales de venta (**construcción**).
+2. La red opera primero dentro de la organización: los Calpullis y sus proyectos productivos venden y compran a través de ella (**implantación**).
+3. La red se abre después a productores, transportistas y comercios externos, ofreciendo un canal directo que prescinde de la cadena de intermediarios que hoy encarece los alimentos sin agregar valor (**comercialización**).
+4. El consumidor elige la red del Altepetl porque encuentra precios más justos y porque cada compra financia la Causa; la porción de mercado que hoy capturan los intermediarios pasa, gradualmente, a la organización y a los productores (**apropiación de mercado**).
+
+El resultado es doble: la organización obtiene ingresos de la comercialización y, al mismo tiempo, ataca de frente uno de los problemas más sensibles para la salud humana —el costo de la alimentación— con una solución estructural, no asistencial.
+
+Lo mismo pasará con el resto de los sectores y actividades productivas.  La tecnología es el primer sector a consolidar porque es la base que habilita a todos los demás; la alimentación es el segundo porque es la primera necesidad.  Sobre el mismo ciclo —construir, implantar, comercializar, consolidar— se irán incorporando, uno a uno y cada uno a su ritmo, los demás sectores de la economía.
 
 # El Inicio
 
@@ -888,7 +903,7 @@ A medida que se vayan construyendo los diferentes productos que generen ingresos
 
 ### Cambio de paradigma
 
-Como ya se explicó en la sección de Tecnología, uno de los mayores ingresos del Altepetl deben ser los procesos de consolidación de software.
+Como ya se explicó en las secciones de Tecnología y Consolidación, uno de los mayores ingresos del Altepetl deben ser los procesos de consolidación de software.
 El costo de producción de un producto de software es muy bajo en comparación con los ingresos que genera, lo que le da mayor relevancia hoy en día a un producto de software es la cantidad de gente que lo utiliza, eso lleva, patrocinadores, potenciando los ingresos del producto.
 
 Para concentrar a las personas y llevarlas a nuestras plataformas, solo hace falta un movimiento con **Causa** y eso es justamente lo que la organización Altepetl, es.
@@ -948,7 +963,7 @@ Desde el transportista, hasta el almacen o centro comercial que vende estos prod
 
 Es el sector productivo más **INMORAL**.
 
-La organización Altepetl tiene que **Consolidarlo**.
+La organización Altepetl tiene que **Consolidarlo** (ver "Ejemplo: la comercialización de alimentos" en la sección "Consolidación").
 
 # Pilares Estructurales
 
