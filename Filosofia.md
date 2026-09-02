@@ -30,8 +30,19 @@ A este nuevo sistema económico, social y humano de conocimiento le llamaremos K
 El objetivo del Altepetl es construir el Kinam.
 
 > Emociones
+
 No reconocer la sensibilidad emocional del hombre, es en sí, un acto de violencia.
 Nuestra sociedad actual, materialista, violenta perpetuamente al hombre.
+
+**Reflexiona**
+
+    ¿Cuantas personas forman tu circulo de soporte emocional?
+
+Con suerte, durante toda la vida, solo hay una persona conoce y escucha tus sentimientos.
+
+Esta persona no esta disponible para ti el 100% del tiempo, por lo tanto:
+
+    Vivimos emocionalmente abandonados.
 
 ## Filosofía de la organización
 
