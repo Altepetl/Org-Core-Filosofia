@@ -1,9 +1,9 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.4.0
+version: 1.6.0
 created: 2026-08-12
-updated: 2026-08-13
+updated: 2026-09-02
 ---
 
 # Altepetl
@@ -590,6 +590,29 @@ En el terreno de la tecnología la organización Altepetl necesita consolidar to
 
 El core de todo esto será, que así como TI representa un gasto muy grande dentro de la organización, TI también debe representar el ingreso más alto directo de efectivo, a través de la consolidación de servicios y aplicaciones de TI.
 
+### Consolidación
+
+La consolidación es el proceso completo por el cual el Altepetl convierte una necesidad tecnológica propia en una fuente de ingresos: identifica un servicio de alta demanda en el mercado, lo construye con recursos propios, lo implanta primero para uso interno, lo comercializa después hacia clientes externos y, sostenido por su ventaja de costos y por la Causa, termina por quedarse con una porción de ese mercado.  No es una forma abstracta de decir "crecer": es un ciclo concreto con cuatro fases.
+
+1. **Construcción** — el servicio se desarrolla con trabajo comunitario, software libre y aportaciones económicas, lo que reduce de forma estructural su costo de desarrollo frente al de un competidor comercial.
+2. **Implantación** — el servicio entra en operación primero para uso interno de la organización, donde se ejercita y se prueba sobre casos reales antes de ofrecerlo fuera.
+3. **Comercialización** — una vez probado, se ofrece a clientes privados a precios competitivos.  Esta venta es comercio puro: el cliente paga por un servicio, no adquiere participación ni control sobre la organización.
+4. **Apropiación de mercado** — sostenido por la ventaja de costos y por la Causa, el servicio va atrayendo a los clientes de los proveedores comerciales existentes.
+
+La consolidación tiene dos fronteras que conviene tener siempre presentes.  La primera es de principios: es venta de servicios, no captación de capital; la frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado (ver "Capital financiero privado").  La segunda es operativa: la ventaja del trabajo voluntario reduce el costo de desarrollo, no el de operación; por eso la consolidación no se gana en una guerra de precios, sino en el diferenciador estructural, la Causa (ver "Los límites del trabajo voluntario").
+
+#### Ejemplo: la nube del Altepetl
+
+El caso de la cloud propia, descrito en los párrafos anteriores, recorre el ciclo completo:
+
+1. La organización necesita infraestructura de cómputo para sus propios servicios; rentarla a proveedores comerciales sería uno de sus gastos más altos.
+2. Con trabajo comunitario y aportaciones construye su propio centro de datos y su propia nube, a un costo de desarrollo menor que el de los proveedores comerciales (**construcción**).
+3. La nube opera primero para los servicios internos del Altepetl, donde se prueba y se estabiliza (**implantación**).
+4. Una vez probada, la capacidad sobrante se ofrece como servicio a clientes privados, a precios competitivos (**comercialización**).
+5. Los clientes migran no solo por el precio —que al inicio puede no ser el más bajo— sino porque contratar la nube del Altepetl es financiar la Causa; con el tiempo, la organización se queda con una porción del mercado de los proveedores comerciales (**apropiación de mercado**).
+
+El resultado es que un gasto se convierte en ingreso: lo que era el centro de costos más alto de la organización pasa a ser su fuente de ingreso directo más alta.  Cada consolidación posterior —pasarela de pagos, app, terminal, punto de venta— repite el mismo ciclo.
+
 ## Captación de recursos
 
 La captación de recursos empieza por la consolidación de aplicaciones de software de uso cotidiano, destinando sus ingresos a los fondos de recursos del Altepetl.
@@ -613,7 +636,7 @@ Entonces, la organización social Altepetl, en lugar de usar terminales de pago 
 
 Una aclaración esencial sobre la competencia: el Altepetl no construye un gateway de pagos para competir de frente, servicio contra servicio, contra los gigantes comerciales que ya existen.  Lo construye con todo lo que esta organización representa en objetivos y valores.  **Ese es el producto principal.**  Si el Altepetl apuesta por el mercado de medios de pagos, no es por el servicio en sí —que cualquier empresa con capital puede replicar— sino por el objetivo final que lo sostiene: cada peso procesado por la pasarela financia la base económica para la salud humana.  Contra eso una empresa comercial no puede competir, porque su propio diseño se lo impide: ofrecerlo significaría dejar de perseguir la maximización de la ganancia.
 
-Este proceso es lo que ya definimos como proceso de consolidación, replicar un proceso económico de alta demanda para uso de la organización, así como para la venta de servicios al sector comercial, maximizando la captación de ingresos a la organización Altepetl.
+Este proceso es lo que ya definimos como proceso de consolidación (ver "Consolidación" en la sección Tecnología), replicar un proceso económico de alta demanda para uso de la organización, así como para la venta de servicios al sector comercial, maximizando la captación de ingresos a la organización Altepetl.
 Es importante reiterar: la consolidación es venta de servicios, no captación de capital.  El sector comercial paga por usar los servicios del Altepetl, no invierte en él.  La frontera entre comercio e inversión es la que protege a la organización de ser capturada por el capital financiero privado.
 Para iniciar la captación de recursos del Altepetl, ni siquiera tenemos que ponernos creativos, basta con replicar servicios que son muy consumidos por la sociedad y que sean ellos las principales fuentes de ingreso para comenzar a mover esta organización.
 
@@ -856,6 +879,7 @@ Fuentes de financiamiento:
 - Aportaciones económicas.
 - Aportaciones de horas de trabajo.
 - Porcentaje del plus valor generado.
+- Ficonsumo
 
 Sin duda, el financiamiento inicial sería completamente por aportaciones voluntarias.
 
@@ -874,6 +898,57 @@ Este es el diferenciador de mercado del Altepetl y conviene decirlo sin rodeos: 
 La organización Altepetl debe desarrollar plataformas de comunicación, de redes sociales, como primer paso, para poder darse a conocer y que la Causa de la organización se conozca, que esto comience a concentrar a más personas interesadas en participar y hacer crecer este trabajo.
 
 Son puntos que se fortalecen unos a otros, por un lado se obtienen ingresos por el uso de las plataformas, se incrementa la visibilidad de la organización, se concentran usuarios y se atraen participantes.  Es un ganar ganar para la organización.
+
+## Ficonsumo
+
+La organización Altepetl, **Como primera Etapa**, tiene como objeto social el diseño, desarrollo, producción, distribución y comercialización de aplicaciones móviles, software, plataformas digitales y servicios tecnológicos innovadores, orientados a satisfacer necesidades específicas de usuarios, empresas e instituciones en el ámbito digital.
+
+### Modelo de Financiamiento
+La organización operará bajo un modelo de financiamiento sostenible, en el cual los ingresos principales provendrán del consumo directo de sus servicios y productos digitales por parte de los usuarios finales. Este modelo incluye, pero no se limita a:
+- Suscripciones a plataformas o servicios premium.
+- Pagos por uso (pay-per-use) de herramientas o funcionalidades específicas.
+- Venta de licencias de software o aplicaciones.
+- Publicidad integrada en sus productos digitales.
+- Alianzas estratégicas con terceros para la distribución o co-desarrollo de soluciones.
+
+El financiamiento obtenido a través del consumo de sus servicios permitirá a la organización reinvertir en innovación, escalabilidad y mejora continua de sus productos, garantizando así la sostenibilidad y el crecimiento a largo plazo.
+
+> Consumir nuestros productos y servicios es Financiar una Causa, un cambio radical, construir un sistema económico y social que sea la base para la salud humana.
+
+### Definición Ficonsumo
+
+Ficonsumo es un neologismo creado a partir de la fusión de las palabras "financiamiento" y "consumo", y representa el modelo de negocio central de Altepetl. Este concepto encapsula la filosofía de la organización, donde el financiamiento sostenible se genera directamente a través del consumo de sus productos y servicios digitales por parte de los usuarios.
+
+El término refleja la sinergia entre la oferta de soluciones tecnológicas innovadoras y la capacidad de autofinanciamiento mediante el uso y adopción de dichas soluciones. En este modelo, el valor generado para el usuario se traduce en ingresos recurrentes para la organización, permitiendo:
+- La reinversión en desarrollo y mejora de productos.
+- La escalabilidad de servicios sin depender exclusivamente de fuentes externas de financiamiento.
+- La creación de un ecosistema digital donde el consumo y el crecimiento son mutuamente reforzantes.
+
+Ficonsumo simboliza, por tanto, la unión entre innovación tecnológica y sostenibilidad económica, alineando los intereses de los usuarios, la organización y el mercado.
+
+### Cambio de Paradigma
+
+En años anteriores, la única forma de obtener recursos financieros para generar obra social era a traves de la caridad o entrar al demente sistema político donde todos se despedazan por un poco de dinero.
+
+Hoy, la tecnología ha cambiado, lo que nos permite construir aplicaciones y servicios que solo las grandes empresas eran capaces de proveer.
+
+> Ser concientes, de que al **Consumir** las aplicaciones y servicios de la organización Altepetl es igual a **Financiar** un cambio en la sociedad es la piedar angular que potenciará un nuevo sistema económico.
+
+## Etapas posteriores
+
+El desarrollo tecnológico de aplicaciones y servicios es solo la base para este sistema económico y la fuente de intgreso primaria, sin embargo, una vez alcanzando una madurez tecnológica y financiera, estos servicios serán las herramientas que se pondrán a disposición del resto de la población para apoyar al resto de la población en emprendimientos productivos.
+
+Comenzando por la alimentación, se favorecerá el financiamiento de proyectos para la producción, distribución y comercialización de alimentos.
+
+Esta cadena productiva que hoy es un proceso viciado, que sin razón alguna, incrementa de forma **inhumana** los precios al consumidor.
+
+Desde el transportista, hasta el almacen o centro comercial que vende estos productos.
+
+> Se enriquecen a costa de la **VIDA** del hombre.
+
+Es el sector productivo más **INMORAL**.
+
+La organización Altepetl tiene que **Consolidarlo**.
 
 # Pilares Estructurales
 

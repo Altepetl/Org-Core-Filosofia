@@ -37,6 +37,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.6.0: nueva sección "Ficonsumo" dentro de
+  "Financiamiento". Define el objeto social de la primera etapa (diseño,
+  desarrollo, producción, distribución y comercialización de software y
+  servicios tecnológicos), el modelo de financiamiento por consumo directo
+  (suscripciones, pago por uso, licencias, publicidad integrada y alianzas
+  estratégicas) y el neologismo Ficonsumo —fusión de "financiamiento" y
+  "consumo"— como modelo de negocio central: el consumo de los productos y
+  servicios de la organización financia la Causa. Nueva sección "Etapas
+  posteriores": una vez alcanzada la madurez tecnológica y financiera, los
+  servicios se ponen al disposición de la población para emprendimientos
+  productivos, comenzando por la cadena de producción, distribución y
+  comercialización de alimentos, que la organización busca consolidar.
+- [Filosofía](./Filosofia.md), v1.5.0: nueva subsección "Consolidación" dentro
+  de "Tecnología" que fija el término con precisión: definición del ciclo en
+  cuatro fases (construcción, implantación, comercialización y apropiación de
+  mercado), sus dos fronteras (venta de servicios, no captación de capital;
+  la ventaja del trabajo voluntario cubre el desarrollo, no la operación) y un
+  ejemplo detallado con la nube propia del Altepetl recorriendo el ciclo
+  completo. Referencia cruzada actualizada en "Captación de recursos".
+- [Filosofía](./Filosofia.md), v1.4.0: resolución de la controversia sobre
+  proyectos contrarios a los valores. En "Registro, no prohibición" los
+  proyectos contradictorios ya no caen al final de la lista: reciben peso
+  negativo y no se atienden mientras su impacto negativo no se reduzca a un
+  margen justo; el registro deja de describirse como marca permanente e
+  inmutable y declara su propósito: identificar grupos y personas con malas
+  intenciones. Nuevas subsecciones "Quién determina qué es contrario a los
+  valores" (no hay juez central: lo determina la razón de las comunidades a
+  través de sus organismos de gobierno, desde el Calpulli) y "Proyectos
+  controversiales" (el proponente defiende su proyecto con investigación,
+  datos y análisis robusto y debe conquistar los corazones de su oposición;
+  la misión de los consejos es complementar el proyecto, no solo refutarlo;
+  ejemplo del aborto). La priorización de proyectos se alinea con esta regla
+  y se añade el paradigma de hacer que una Causa sea el promotor principal de
+  venta de los productos y servicios de la organización.
 - [Filosofía](./Filosofia.md), v1.3.0: precisión sobre la ventaja competitiva
   del trabajo comunitario —reduce el costo de desarrollo, no el de operación
   (disponibilidad 24/7, cumplimiento, seguridad, soporte y energía se pagan
