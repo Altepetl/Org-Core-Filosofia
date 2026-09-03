@@ -310,6 +310,8 @@ Y como todo lo sagrado, se ama y se cuida.
 
 En esta organización, al re interpretar la iconografía del concepto Altepetl, en su nuevo logotipo, no simplemente se muestra la conjunción del cerro y el agua, deliveradamente se arranca el cerro de la tierra y lo que parece ser una montaña voladora, en realidad es la imagen femenina dadora de vida...
 
+*Dadora de Luz.*
+
 <div align="center">
 
 ![Logotipo del Altepetl](images/Altepetl_v2_cima.png)
