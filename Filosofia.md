@@ -1,7 +1,7 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.7.0
+version: 1.8.0
 created: 2026-08-12
 updated: 2026-09-02
 ---
@@ -253,6 +253,63 @@ Hoy en día agentes de IA pueden proveer una base constante de procesos de anál
 Para más detalle consultar el proyecto de la organización Altepetl llamado: Pensamiento Crítico donde se detalla el camino que debe seguir un agente de IA para la realización de este proceso.  Es un proyecto autónomo, listo y en desarrollo: la filosofía del Altepetl no depende de su madurez para sostenerse, pero sí se beneficia de él en la medida en que madure.
 
 [Pensamiento Crítico](https://github.com/Altepetl/Org-Core-CriticalThinking)
+
+## La mujer como pilar del sistema capitalista actual
+
+Hay un sostén del sistema actual del que casi nunca se habla con su nombre: **la mujer**. 
+
+El sistema económico vigente no se sostiene solo sobre fábricas, mercados y bancos; se sostiene sobre un trabajo que no aparece en ninguna nómina y que, sin embargo, mantiene en pie todo lo anterior: el trabajo de cuidados y de hogar que realizan las mujeres, día con día, durante toda su vida.
+
+Los números no son una interpretación, son medición.  A nivel mundial, las mujeres realizan el 76.2% de todo el trabajo de cuidado no remunerado (OIT); cada día dedican 16 mil millones de horas a cocinar, limpiar, acarrear agua, cuidar infancias y a personas enfermas o mayores (ONU Mujeres), un trabajo cuyo valor se estima entre el 10% y el 39% del PIB —en términos conservadores, unos 11 billones de dólares anuales, cerca del 9% del PIB mundial—.  En México, la Cuenta Satélite del Trabajo No Remunerado de los Hogares (INEGI, 2024) valora ese trabajo en 8 billones de pesos, el 23.9% del PIB nacional, y de ese valor el 72.6% lo aportan las mujeres.  Según la ENUT 2024, la jornada total de una mujer en México —trabajo remunerado más no remunerado— es de **61 horas semanales**, y alrededor de **dos tercios de su tiempo no reciben pago alguno**.
+
+Para el sistema económico, toda esa aportación no tiene valor alguno: es trabajo no remunerado por definición.
+
+> El sistema llama "improductivo" al trabajo que literalmente sostiene la vida.
+
+La propia ONU Mujeres lo dice sin metáfora: si las mujeres se declararan en huelga de este trabajo, las comunidades se paralizarían y las economías se desplomarían.
+
+> Sin este sacrificio de la mujer, este sistema no existiría.
+
+La injusticia no es reciente ni accidental.  Desde la consolidación de la familia monogámica junto con la propiedad privada, la mujer quedó convertida en una propiedad más —primero del padre, después del esposo— y su trabajo en una obligación sin nombre y sin salario (el análisis clásico de este proceso es el de Engels, *El origen de la familia, la propiedad privada y el Estado*).
+
+A esa expropiación histórica se suma la violencia que la mujer sufre día con día, a lo largo de toda su vida: física, mental, emocional y económica.
+
+**Mártir** por designación social, sacrifica la vida entera por sostener la vida en este mundo, aun a pesar del sistema que la despedaza cada día en todos los sentidos.
+
+Esto es injusto en el sentido más estricto de la palabra: quien más aporta es quien menos recibe.  Y por lo mismo, es necesario pararlo **ya**: no como una reivindicación más en la lista de pendientes del sistema que la produce, sino como parte del cambio de las condiciones materiales que es la piedra angular de esta organización.
+
+Por eso este llamado va dirigido al corazón de la mujer.
+
+El Altepetl no te pide que cargues también este proyecto sobre tu espalda, como el sistema te ha enseñado a cargarlo todo; te invita a construirlo, porque es el tuyo.
+
+Nadie conoce mejor que tú lo que cuesta sostener la vida sin reconocimiento; nadie tiene más autoridad que tú para definir cómo debe ser un sistema donde sostener la vida sea el centro de la economía y no su trabajo invisible.
+
+Tu experiencia diaria —administrar lo escaso, cuidar, organizar, sostener— es exactamente la sabiduría que esta organización necesita en sus Calpullis, en sus consejos y en su gobierno.
+
+> No como invitada: como pilar.
+
+Si el sistema actual se sostiene sobre tu sacrificio silencioso, el sistema nuevo solo puede construirse con tu voz y tu decisión.
+
+### Iconografía de Altepetl
+
+No es casualidad que a la consolidación de una ciudad-estado le llamaran Altepetl.  Nuestros abuelos sabían claramente de la importancia femenina en la organización y participación social.
+
+La palabra y su glifo nacen de un difrasismo náhuatl (la unión de dos metáforas para crear un nuevo significado) formado por las palabras ātl (agua) y tepētl (cerro o montaña).
+- El cerro: eran vistos como "contenedores" sagrados que resguardaban la vida, las semillas y a los ancestros de la comunidad.
+- El Agua: representa fertilidad agrícola y la viabilidad económica de la población. Sin agua, ninguna comunidad podía florecer o asentarse permanentemente.
+
+El Altepetl es una concepción totalmente **Femenina**, la organización social debe ser por tanto, femenina, si se desea fomentar la vida.
+
+Si uno de nuestros **Valores** es la **Vida**, entonces, en esta nueva organización **honramos a la mujer como dadora de Vida**.
+
+> La mujer, como la vida, el agua, la tierra, es sagrada.
+
+Y como todo lo sagrado, se ama y se cuida.
+
+En esta organización, al re interpretar la iconografía del concepto Altepetl, en su nuevo logotipo, no simplemente se muestra la conjunción del cerro y el agua, deliveradamente se arranca el cerro de la tierra y lo que parece ser una montaña voladora, en realidad es la imagen femenina dadora de vida...
+<div align="center">
+![Logotipo del Altepetl](images/Altepetl_v2_cima.png)
+</div>
 
 ## Calpulli
 

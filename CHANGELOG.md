@@ -37,6 +37,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.8.0: nueva sección "La mujer como pilar del
+  sistema capitalista actual". Documenta con datos medidos (OIT, ONU Mujeres,
+  INEGI/Cuenta Satélite y ENUT 2024) que el sistema se sostiene sobre el
+  trabajo de cuidados no remunerado de las mujeres —76.2% del total mundial;
+  en México, 23.9% del PIB y 72.6% del valor aportado por mujeres—, su raíz
+  histórica en la familia monogámica y la propiedad privada (Engels) y la
+  violencia cotidiana que la acompaña. Declara la injusticia ("quien más
+  aporta es quien menos recibe"), la necesidad de pararla ya como parte del
+  cambio de las condiciones materiales, y cierra con un llamado directo al
+  corazón de la mujer a participar en la organización no como invitada sino
+  como pilar.
 - [Filosofía](./Filosofia.md), v1.7.0: la red social propia entra a la
   secuencia del Inicio como el paso siguiente al Gateway de pagos y anterior
   a la blockchain ("Mientras concluye el trámite legal"): no requiere
