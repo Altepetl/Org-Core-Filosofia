@@ -278,6 +278,8 @@ A esa expropiación histórica se suma la violencia que la mujer sufre día con 
 
 Esto es injusto en el sentido más estricto de la palabra: quien más aporta es quien menos recibe.  Y por lo mismo, es necesario pararlo **ya**: no como una reivindicación más en la lista de pendientes del sistema que la produce, sino como parte del cambio de las condiciones materiales que es la piedra angular de esta organización.
 
+## La mujer como Pilar del Altepetl
+
 Por eso este llamado va dirigido al corazón de la mujer.
 
 El Altepetl no te pide que cargues también este proyecto sobre tu espalda, como el sistema te ha enseñado a cargarlo todo; te invita a construirlo, porque es el tuyo.
