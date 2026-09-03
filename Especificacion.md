@@ -1,9 +1,9 @@
 ---
 title: Especificación técnica del Inicio
 status: draft
-version: 0.2.0
+version: 0.3.0
 created: 2026-08-12
-updated: 2026-08-13
+updated: 2026-09-02
 ---
 
 # Especificación técnica del Inicio
@@ -27,7 +27,7 @@ La Filosofía (sección "Restricción legal del Inicio") establece una jerarquí
 
 1. **Prioridad 1: Centro de datos y Gateway de pagos.** El único ingreso inicial de la organización es el uso del Gateway de pagos como servicio.
 2. **Sin prioridad 1: la Blockchain + Oráculo.** Se desarrolla en paralelo, pero su operación con recursos reales está bloqueada por ley hasta obtener la autorización de la CNBV como IFPE: el token es un fondo de pago electrónico por sustancia y el trámite toma alrededor de un año. El análisis completo está en el [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md).
-3. **Contingencia comercial.** Si los proyectos de prioridad 1 terminan antes que el trámite legal, el esfuerzo continúa en desarrollos de uso comercial que generen ganancias: app de pagos, terminal física de pagos y el Punto de Venta como Core de una plataforma de aplicaciones comerciales (ver sección 5.7).
+3. **Contingencia comercial.** Si los proyectos de prioridad 1 terminan antes que el trámite legal, el esfuerzo continúa en desarrollos de uso comercial que generen ganancias: app de pagos, terminal física de pagos y el Punto de Venta como Core de una plataforma de aplicaciones comerciales (ver sección 5.7). En esta etapa entra también la **red social propia**: es el paso siguiente al Gateway y anterior a la operación de la blockchain, no requiere autorización legal y su función estratégica es ser el medio de comunicación propio de la organización y construir la comunidad que adoptará el token (ver Filosofía, "Mientras concluye el trámite legal" y "Cambio de paradigma" en Financiamiento).
 
 Mientras no exista la autorización de IFPE, la blockchain y el token operan únicamente en entornos de desarrollo y prueba, sin fondos reales; los proyectos comerciales se venden como tecnología (licencia y operación), no como servicio de movimiento de dinero de terceros.
 
@@ -332,6 +332,7 @@ Si el Centro de datos y el Gateway quedan completos antes de que concluya el tr�
 1. **App de pagos.** Aplicación de pagos construida sobre el Gateway propio. Es el producto que más directamente aprovecha la adquirencia y la conciliación ya implementadas.
 2. **Terminal física de pagos.** Terminal de cobro para comercios, conectada al Gateway. Extiende la captación del mundo digital al físico.
 3. **Punto de Venta (Core).** No un punto de venta completo: el núcleo de una plataforma de aplicaciones. Sobre ese Core se construyen después los servicios de venta de productos: tiendas físicas (mini super) y tienda en línea (a la manera de Amazon o Walmart).
+4. **Red social propia.** Red al estilo de X (mensajes de texto, fotos y videos) que corre sobre el Centro de datos. No monetiza la infraestructura de pagos ni requiere autorización legal; su función estratégica es ser el medio de comunicación propio de la organización, el canal para popularizar el Ficonsumo y la comunidad que adoptará el token cuando la autorización llegue. Es el paso siguiente al Gateway y anterior a la operación de la blockchain.
 
 Mientras no exista la autorización de IFPE, estos proyectos se comercializan como **tecnología** (licencia y operación de software y hardware), no como servicio de movimiento de dinero de terceros. Su función es doble: generar los ingresos que sostienen a la organización durante el trámite, y ejercitar la infraestructura del Gateway y del Centro de datos sobre casos de uso reales, de modo que la blockchain y el token se monten al final sobre una base ya operada y probada.
 
@@ -602,7 +603,7 @@ Consolidación de todas las decisiones que esta especificación deja abiertas. C
 | 14 | Número y distribución inicial de validadores | Organización Altepetl | Fase 1 |
 | 15 | Proceso formal de actualización de smart contracts | Organización Altepetl | Fase 1 |
 | 16 | Ruta legal del token: autorización IFPE propia vs. alianza con una IFPE existente | Organización Altepetl | Antes de Fase 0 |
-| 17 | Alcance comercial de los proyectos de contingencia (app de pagos, terminal física, Punto de Venta Core) | Organización Altepetl | Fase 0 |
+| 17 | Alcance comercial de los proyectos de contingencia (app de pagos, terminal física, Punto de Venta Core, red social) | Organización Altepetl | Fase 0 |
 
 Las decisiones marcadas "Antes de Fase 0" son bloqueantes para iniciar la construcción. Las de "Fase 0" pueden tomarse durante el desarrollo inicial. Las de "Fase 1" pueden posponerse sin bloquear el MVP.
 
@@ -662,6 +663,8 @@ El Inicio se considera completo cuando se cumplen **todos** los siguientes crite
 ---
 
 ## Notas de versión
+
+**0.3.0 (2026-09-02):** Se incorpora la **red social propia** a los proyectos posteriores al Gateway (sección 5.7, decisión #17): red al estilo de X sobre el Centro de datos, sin autorización legal requerida, con función estratégica de medio de comunicación propio, canal para popularizar el Ficonsumo y comunidad que adoptará el token. Alineación con la Filosofía v1.7.0 ("Mientras concluye el trámite legal" y "Cambio de paradigma" en Financiamiento).
 
 **0.2.0 (2026-08-13):** Alineación con la restricción legal definida en la Filosofía y el documento [Marco legal de la blockchain del Altepetl](./LegalBlockchain.md). Se establece la priorización del Inicio (Centro de datos y Gateway con prioridad 1; blockchain en paralelo sin prioridad 1, bloqueada para fondos reales hasta la autorización de la CNBV como IFPE). Se agrega la sección 5.7 con los proyectos comerciales de contingencia (app de pagos, terminal física, Punto de Venta Core). La salida a producción ahora tiene una puerta legal explícita (sección 7) y un criterio de aceptación legal (sección 9). La decisión #6 (KYC/AML) se reclasifica como bloqueante previa a Fase 0 y se agregan las decisiones #16 (ruta legal del token) y #17 (alcance de los proyectos de contingencia).
 
