@@ -136,8 +136,8 @@ los puntos clave.
 
 | Documento | Versión | Estado |
 |---|---|---|
-| Filosofía | 1.6.0 | stable — revisada, pulida, internamente coherente |
-| Especificación del Inicio | 0.2.0 | draft — arquitectura definida, decisiones pendientes abiertas |
+| Filosofía | 1.7.0 | stable — revisada, pulida, internamente coherente |
+| Especificación del Inicio | 0.3.0 | draft — arquitectura definida, decisiones pendientes abiertas |
 | Marco de Gobernanza | 0.1.0 | draft — marco definido, decisiones pendientes abiertas |
 | Marco Legal Organizacional | 0.1.0 | draft — arquitectura definida, requiere validación de asesoría legal |
 | Capital Inicial Necesario | 0.1.0 | draft — estimación definida, requiere cotización formal con proveedores |

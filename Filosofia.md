@@ -1,7 +1,7 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.6.0
+version: 1.7.0
 created: 2026-08-12
 updated: 2026-09-02
 ---
@@ -665,12 +665,12 @@ El resultado es que un gasto se convierte en ingreso: lo que era el centro de co
 
 ### Ejemplo: la comercialización de alimentos
 
-La consolidación no se agota en la tecnología.  Como se plantea en la sección "Etapas posteriores", una vez alcanzada la madurez tecnológica y financiera, la organización pone sus servicios a disposición de la población para emprendimientos productivos, comenzando por la alimentación.  El ciclo es el mismo:
+La consolidación no se agota en la tecnología.  Como se plantea en la sección "Etapas posteriores", una vez alcanzada la madurez tecnológica y financiera, la organización pone sus servicios a disposición de la población para emprendimientos productivos, comenzando por la alimentación.  Para consolidar ese sector la organización debe contar ya con las herramientas tecnológicas y financieras para operar la cadena completa —producción, almacenamiento, distribución y venta— y esas herramientas se construyen pieza a pieza, en una escalera de productos donde cada uno financia y habilita al siguiente.  El ciclo es el mismo:
 
-1. Sobre la infraestructura tecnológica ya consolidada —gateway de pagos, centro de datos, punto de venta, tienda en línea— la organización construye la red de producción, distribución y comercialización de alimentos: financia los proyectos productivos de la población y opera la logística y los canales de venta (**construcción**).
-2. La red opera primero dentro de la organización: los Calpullis y sus proyectos productivos venden y compran a través de ella (**implantación**).
-3. La red se abre después a productores, transportistas y comercios externos, ofreciendo un canal directo que prescinde de la cadena de intermediarios que hoy encarece los alimentos sin agregar valor (**comercialización**).
-4. El consumidor elige la red del Altepetl porque encuentra precios más justos y porque cada compra financia la Causa; la porción de mercado que hoy capturan los intermediarios pasa, gradualmente, a la organización y a los productores (**apropiación de mercado**).
+1. La organización construye, pieza a pieza, la plataforma que la cadena de alimentos necesita: primero el motor de pagos, después el punto de venta, luego el control de almacén y finalmente el sistema de logística de producción y distribución, cuya capacidad de planeación reduce la merma (**construcción**).
+2. El punto de venta se ofrece gratuito, desde su primera versión, a todas las tiendas, sin importar los productos que ofrezcan.  Aquí la implantación y la comercialización se funden: el producto se implanta directamente en el mercado, tienda por tienda, porque el objetivo no es vender software sino sembrar la red —cada tienda que lo adopta suma presencia física, datos reales de venta y una relación con el comerciante—.  Las actividades que contradigan los valores se rigen por la regla general: registro, no prohibición (**implantación**).
+3. Los servicios superiores de la plataforma —logística, surtido, financiamiento de proyectos productivos— se cobran como servicio; el punto de venta sigue siendo gratuito porque el margen del procesamiento de pagos y de los servicios logísticos lo subsidia.  La plataforma se enriquece gradualmente hasta ser la misma que operará el almacén propio de la organización (**comercialización**).
+4. Con la red desplegada, la demanda agregada de miles de tiendas negocia directamente con productores —poder de compra que individualmente ninguna alcanza— y la logística propia reduce la merma y la intermediación; el consumidor encuentra precios más justos y cada compra financia la Causa.  No se trata de eliminar a las grandes cadenas comerciales por decreto, sino de desplazar gradualmente sus funciones: surtido, distribución y precio pasan a resolverse dentro de la red (**apropiación de mercado**).
 
 El resultado es doble: la organización obtiene ingresos de la comercialización y, al mismo tiempo, ataca de frente uno de los problemas más sensibles para la salud humana —el costo de la alimentación— con una solución estructural, no asistencial.
 
@@ -707,6 +707,8 @@ Los proyectos que se adaptan de forma más natural a esta etapa, en orden:
 Una precisión necesaria para mantener la coherencia con el marco legal: mientras no exista la autorización de IFPE, estos proyectos se comercializan como **tecnología** (licencia y operación del Gateway, la app, la terminal y el Punto de Venta); el movimiento de dinero de terceros sigue bloqueado hasta concluir el trámite.
 
 Estos proyectos comerciales cumplen una doble función: generan los ingresos que sostienen a la organización mientras llega la autorización, y ejercitan sobre casos reales la infraestructura del Gateway y del Centro de datos, de modo que cuando la autorización legal llegue, la blockchain y el token se monten sobre una base ya operada y probada.
+
+Después del Gateway de pagos, la escalera tiene un peldaño estratégico que se adelanta incluso a la blockchain: la **red social propia** (ver "Cambio de paradigma" en la sección Financiamiento).  No requiere autorización legal, corre sobre el Centro de datos y cumple una función que ningún otro proyecto cumple: es el medio de comunicación propio de la organización y el canal para popularizar el Ficonsumo.  Mientras la blockchain espera la autorización, la red social construye la comunidad que adoptará el token cuando llegue; y se retroalimenta de la red de tiendas del Punto de Venta: cada nodo de una red es altavoz de la otra.
 
 ## Blockchain del Altepetl
 
@@ -912,6 +914,10 @@ Este es el diferenciador de mercado del Altepetl y conviene decirlo sin rodeos: 
 
 La organización Altepetl debe desarrollar plataformas de comunicación, de redes sociales, como primer paso, para poder darse a conocer y que la Causa de la organización se conozca, que esto comience a concentrar a más personas interesadas en participar y hacer crecer este trabajo.
 
+Las redes sociales propias tienen además una función que ninguna otra aplicación cumple: son el medio de comunicación de la organización.  Consolidar redes sociales es tener medios de comunicación realmente libres —canales que nadie puede encarecer, censurar ni apagar— y es sobre ese canal que el concepto de Ficonsumo se populariza: si las personas entienden que consumir los productos del Altepetl es financiar la Causa, cada consolidación posterior encuentra el mercado ya sembrado y los ingresos se potencian.  La implementación inicial es deliberadamente simple: una red social propia al estilo de X, con mensajes de texto, fotos y videos.  Lo mismo se hará, paso a paso, con el resto de las redes sociales.
+
+La advertencia honesta, con la misma claridad de "Los límites del trabajo voluntario": construir una red social es simple; poblarla es el mercado más difícil que existe, porque su valor no está en el software sino en la gente, y la historia está llena de redes bien construidas que murieron vacías.  Antes de alcanzar escala, la red es costo puro —operación y moderación de contenido— y no tiene un motor de pagos que la subsidie desde el primer día.  Por eso la estrategia no es construir "un X para todo el mundo": la red nace como el medio de la Causa —participantes, Calpullis, las tiendas de la red del punto de venta, donantes— y crece desde ese núcleo.  El objetivo inicial no es consolidar el mercado de las redes sociales, es que nadie pueda apagar el canal de la organización; la consolidación del mercado, si llega, es consecuencia, no prerrequisito.
+
 Son puntos que se fortalecen unos a otros, por un lado se obtienen ingresos por el uso de las plataformas, se incrementa la visibilidad de la organización, se concentran usuarios y se atraen participantes.  Es un ganar ganar para la organización.
 
 ## Ficonsumo
@@ -964,6 +970,12 @@ Desde el transportista, hasta el almacen o centro comercial que vende estos prod
 Es el sector productivo más **INMORAL**.
 
 La organización Altepetl tiene que **Consolidarlo** (ver "Ejemplo: la comercialización de alimentos" en la sección "Consolidación").
+
+Para hacerlo, la organización debe contar ya con las herramientas tecnológicas y financieras para operar la cadena en su totalidad.  El camino es paso a paso, en una escalera de productos donde cada uno financia y habilita al siguiente: primero el motor de pagos, después el punto de venta, luego el control de almacén y finalmente el sistema de logística de producción y distribución de alimentos.
+
+La pieza clave de la estrategia es el punto de venta: desde su primera versión se ofrece de forma gratuita a todas las tiendas, sin importar los productos que ofrezcan.  La gratuidad no es caridad, es estrategia y tiene sustento económico: el software se subsidia con los ingresos del procesamiento de pagos y, después, con los servicios de almacén y logística que se montan sobre la misma red.  Poco a poco la plataforma se va enriqueciendo hasta ser la misma que usará el almacén propio de la organización, equiparable a una gran cadena comercial, pero operado con reglas distintas: la demanda agregada de las tiendas negocia directamente con los productores y los márgenes de la intermediación se reducen a sus costos reales.
+
+De esta regla se sigue la secuencia temporal completa: la etapa gratuita del punto de venta solo puede comenzar cuando el procesamiento de pagos ya opera, es decir, una vez obtenida la autorización de IFPE (ver "Restricción legal del Inicio").  Mientras tanto, conforme a "Mientras concluye el trámite legal", estos productos se comercializan como tecnología —licencia y operación del motor de pagos, la app, la terminal y el Punto de Venta Core—, que es justamente la etapa que financia y madura la plataforma antes de sembrar la red.
 
 # Pilares Estructurales
 

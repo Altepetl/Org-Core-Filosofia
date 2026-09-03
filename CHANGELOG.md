@@ -37,6 +37,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.7.0: la red social propia entra a la
+  secuencia del Inicio como el paso siguiente al Gateway de pagos y anterior
+  a la blockchain ("Mientras concluye el trámite legal"): no requiere
+  autorización legal, corre sobre el Centro de datos y construye la comunidad
+  que adoptará el token. En "Cambio de paradigma" (Financiamiento) se
+  declara su función estratégica —medios de comunicación realmente libres y
+  canal para popularizar el Ficonsumo— con implementación inicial simple al
+  estilo de X (texto, fotos, videos), y la advertencia honesta: poblar una
+  red social es el mercado más difícil que existe; la red nace como el medio
+  de la Causa y crece desde ese núcleo, de modo que la consolidación del
+  mercado es consecuencia, no prerrequisito.
+- [Especificación del Inicio](./Especificacion.md), v0.3.0: la red social
+  propia se incorpora a la priorización (sección "Priorización por
+  restricción legal") y como proyecto 4 de la sección 5.7, con su función
+  estratégica declarada. La decisión #17 amplía su alcance a la red social.
 - [Filosofía](./Filosofia.md), v1.6.0: nueva sección "Ficonsumo" dentro de
   "Financiamiento". Define el objeto social de la primera etapa (diseño,
   desarrollo, producción, distribución y comercialización de software y
@@ -48,7 +63,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   posteriores": una vez alcanzada la madurez tecnológica y financiera, los
   servicios se ponen al disposición de la población para emprendimientos
   productivos, comenzando por la cadena de producción, distribución y
-  comercialización de alimentos, que la organización busca consolidar.
+  comercialización de alimentos, que la organización busca consolidar. Se
+  detalla la escalera de productos para operar la cadena completa (motor de
+  pagos → punto de venta → control de almacén → logística): el punto de
+  venta se ofrece gratuito desde su primera versión a todas las tiendas —
+  subsidiado por el margen del procesamiento de pagos y, después, por los
+  servicios de almacén y logística— hasta que la plataforma sea la misma que
+  opere el almacén propio de la organización. Se hace explícita la secuencia
+  temporal: la etapa gratuita del punto de venta inicia una vez obtenida la
+  autorización de IFPE; mientras concluye el trámite, estos productos se
+  comercializan como tecnología, etapa que financia y madura la plataforma
+  antes de sembrar la red.
 - [Filosofía](./Filosofia.md), v1.5.0: nueva sección independiente
   "Consolidación" que fija el término con precisión: definición del ciclo en
   cuatro fases (construcción, implantación, comercialización y apropiación de
@@ -56,7 +81,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   la ventaja del trabajo voluntario cubre el desarrollo, no la operación) y
   dos ejemplos detallados: la nube propia del Altepetl y la red de
   producción, distribución y comercialización de alimentos, recorriendo el
-  ciclo completo. Se declara que el mismo ciclo se aplicará al resto de los
+  ciclo completo (en este segundo ejemplo, la implantación y la
+  comercialización se funden: el punto de venta gratuito siembra la red
+  tienda por tienda y la demanda agregada negocia directamente con los
+  productores). Se declara que el mismo ciclo se aplicará al resto de los
   sectores y actividades productivas. Referencias cruzadas actualizadas en
   "Tecnología", "Captación de recursos" y "Etapas posteriores".
 - [Filosofía](./Filosofia.md), v1.4.0: resolución de la controversia sobre
