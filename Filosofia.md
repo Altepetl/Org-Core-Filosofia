@@ -1,9 +1,9 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.8.0
+version: 1.8.1
 created: 2026-08-12
-updated: 2026-09-02
+updated: 2026-09-18
 ---
 
 # Altepetl
@@ -1016,6 +1016,8 @@ Ficonsumo simboliza, por tanto, la unión entre innovación tecnológica y soste
 En años anteriores, la única forma de obtener recursos financieros para generar obra social era a traves de la caridad o entrar al demente sistema político donde todos se despedazan por un poco de dinero.
 
 Hoy, la tecnología ha cambiado, lo que nos permite construir aplicaciones y servicios que solo las grandes empresas eran capaces de proveer.
+
+Hay que decirlo con claridad: el sistema capitalista creó el consumismo para mantenernos como esclavos.  Nos educó para desear lo que no necesitamos, nos endeudó para comprarlo y nos obliga a trabajar para pagarlo: cada compra alimenta la misma máquina que nos somete.  El Ficonsumo toma esa arma y la pone en nuestras manos: **el mismo consumo que hoy nos encadena será el instrumento con el que construiremos el nuevo sistema económico que lo reemplace**.  Cada vez que consumimos un producto o servicio del Altepetl, el dinero deja de engordar al capital que nos explota y pasa a financiar la Causa; la trampa del sistema se convierte en la palanca de su reemplazo.
 
 > Ser concientes, de que al **Consumir** las aplicaciones y servicios de la organización Altepetl es igual a **Financiar** un cambio en la sociedad es la piedar angular que potenciará un nuevo sistema económico.
 

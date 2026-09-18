@@ -37,6 +37,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.8.1: nuevo párrafo en "Cambio de Paradigma"
+  (sección Ficonsumo) que declara que el sistema capitalista creó el
+  consumismo para mantenernos como esclavos, y que el mismo consumo será el
+  instrumento con el que se construirá el nuevo sistema económico que lo
+  reemplace.
 - [Filosofía](./Filosofia.md), v1.8.0: nueva sección "La mujer como pilar del
   sistema capitalista actual". Documenta con datos medidos (OIT, ONU Mujeres,
   INEGI/Cuenta Satélite y ENUT 2024) que el sistema se sostiene sobre el
