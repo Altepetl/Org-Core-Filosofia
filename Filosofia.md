@@ -1,9 +1,9 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.8.1
+version: 1.8.2
 created: 2026-08-12
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 # Altepetl
@@ -124,7 +124,7 @@ Esta migración debe ser técnica.
 
 La técnica ha evolucionado de una forma inmensa, hoy contamos con técnicas y herramientas que permiten niveles de producción y administración social que el siglo pasado eran inimaginables.
 
-Por poner solo un ejemplo, el bitcoin es una tecnología capaz de dividir la unidad en un billón de partes y llevar la traza de cada compra o venta de cada billonésima parte.  Esto no es planificación por sí mismo, es trazabilidad: la capacidad administrativa de registrar, a gran escala y con detalle fino, cada movimiento de valor.  Esa trazabilidad es precisamente la condición que antes faltaba.  Sin registro detallado no puede haber planificación seria; con él, sí.
+Por poner solo un ejemplo, el bitcoin es una tecnología capaz de dividir cada unidad en cien millones de partes (llamadas satoshis) y llevar la traza de cada compra o venta de cada una de esas partes en un registro público.  Esto no es planificación por sí mismo, es trazabilidad: la capacidad administrativa de registrar, a gran escala y con detalle fino, cada movimiento de valor.  Esa trazabilidad es precisamente la condición que antes faltaba.  Sin registro detallado no puede haber planificación seria; con él, sí.
 
 Un sistema económico con sentido comunitario, social, planificado y auto administrado es perfectamente factible hoy en día, precisamente porque hoy existe esa capacidad de registro y seguimiento que antes no existía.
 
