@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- [Filosofía](./Filosofia.md), sección "El camino": corrige el dato sobre la
+  divisibilidad del bitcoin —cada unidad se divide en cien millones de
+  satoshis, no en un billón de partes— y precisa que la traza es pública.
+
 ### Added
 - [Capital inicial necesario](./CapitalInicialNecesario.md), v0.1.0 draft:
   presupuesto de arranque formal del Altepetl. Detalla los costos de
