@@ -27,6 +27,8 @@ Filosofia/
 ├── MarcoLegalOrganizacional.md    # Arquitectura legal multi-entidad: A.C. + empresa (draft)
 ├── CapitalInicialNecesario.md     # Presupuesto de arranque por escenarios (draft)
 ├── LegalBlockchain.md             # Encuadre legal del token (Ley Fintech / IFPE) (draft)
+├── ConsultaPublicaDonaciones.md   # Registro y publicación pública de donativos (draft)
+├── PoliticasComprobanteDonacion.md  # Política de comprobantes de donación (draft)
 ├── README.md                      # Portada: qué es, tabla de documentos, estados
 ├── CHANGELOG.md                   # Keep a Changelog + SemVer
 ├── CONTRIBUTING.md                # Proceso de contribución y estilo
@@ -39,10 +41,6 @@ Filosofia/
     └── ISSUE_TEMPLATE/            # inconsistency.md, correction.md, proposal.md, config.yml
 ```
 
-Nota: el diagrama de estructura dentro de `README.md` omite
-`MarcoLegalOrganizacional.md` y `CapitalInicialNecesario.md` (agregados
-después). Los archivos listados arriba reflejan el estado real.
-
 ### Rol de cada documento
 
 | Documento | Rol | Pregunta que responde |
@@ -53,6 +51,8 @@ después). Los archivos listados arriba reflejan el estado real.
 | `MarcoLegalOrganizacional.md` | Legal | ¿Qué figuras jurídicas y cómo fluyen los fondos? |
 | `CapitalInicialNecesario.md` | Financiero | ¿Cuánto cuesta arrancar? |
 | `LegalBlockchain.md` | Legal | ¿Qué exige la ley mexicana para el token? |
+| `ConsultaPublicaDonaciones.md` | Transparencia | ¿Cómo se registran y publican los donativos? |
+| `PoliticasComprobanteDonacion.md` | Fiscal / Legal | ¿Cómo se comprueban los donativos y qué se advierte al donante? |
 
 Los documentos técnicos se materializan en repositorios hermanos:
 `../Org-Core-DataCenter`, `../Org-Core-Payments`, `../Org-Core-Blockchain`
@@ -133,7 +133,8 @@ argumentativa y trazabilidad (CHANGELOG + issue referenciado). Los CODEOWNERS
 - **No contradecir** los valores fundacionales (La vida, El ser humano, El
   amor, La Bondad) ni la regla "comercio sí, capital como inyección no".
 - Los documentos legales (`MarcoLegalOrganizacional.md`, `LegalBlockchain.md`,
-  `CapitalInicialNecesario.md`) están en draft y **requieren validación de
+  `CapitalInicialNecesario.md`, `ConsultaPublicaDonaciones.md`,
+  `PoliticasComprobanteDonacion.md`) están en draft y **requieren validación de
   asesoría legal / cotizaciones formales**; no tratarlos como asesoría
   definitiva.
 - No renombrar `meshica` por `azteca` ni abrir debate sobre el nombre.

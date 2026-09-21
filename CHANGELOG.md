@@ -13,6 +13,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   satoshis, no en un billón de partes— y precisa que la traza es pública.
 
 ### Added
+- [Política de comprobantes de donación](./PoliticasComprobanteDonacion.md), v0.1.0
+  draft: define cómo se comprueba cada donativo en dos etapas —recibo no
+  fiscal mientras no exista la A.C. donataria (con leyenda de no
+  deducibilidad) y CFDI con complemento de donatarias una vez autorizada
+  (emisión en 24 horas, método PUE, uso D04)—. Documenta el marco legal
+  mexicano de la recepción de donativos: deducibilidad del donante (límites
+  del 7%, medio de pago bancarizado, exclusión del RESICO), prevención de
+  lavado (LFPIORPI art. 17-XIII: actividad vulnerable, umbrales en UMA,
+  conservación de 10 años, CPF art. 400 Bis), donativos en especie y
+  criptoactivos, donativos del extranjero e irrevocabilidad civil. Establece
+  las ocho advertencias que se muestran al donante antes de donar, las reglas
+  de aceptación y rechazo de donativos y la política de no reembolso salvo
+  error operativo. Actualiza README (tabla de documentos, descripciones,
+  estado y estructura) y AGENTS.md.
+- [Consulta pública de donaciones](./ConsultaPublicaDonaciones.md), v0.1.0
+  draft: declara el registro público de donaciones en construcción y define
+  las dos etapas: conciliación manual mensual de depósitos (procedimiento,
+  privacidad del donante por defecto anónima, responsable, límites) y
+  requisitos del sistema automatizado de consulta (datos con identificador
+  único, conciliación automática, interfaz pública ES/EN, infraestructura,
+  protección de datos). Incluye el mapa de obligaciones legales: ninguna
+  vigente hoy por ausencia de registro legal —la publicación es compromiso
+  voluntario— y las futuras al constituirse la A.C. donataria (LISR art. 82,
+  declaración anual y de transparencia, información a disposición del público).
+  Actualiza README (tabla de documentos y estado) y AGENTS.md.
 - [Capital inicial necesario](./CapitalInicialNecesario.md), v0.1.0 draft:
   presupuesto de arranque formal del Altepetl. Detalla los costos de
   constitución de la A.C. donataria y de la empresa comercial, los contratos y

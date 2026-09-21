@@ -1,9 +1,9 @@
 ---
 title: Filosofía del Altepetl
 status: stable
-version: 1.0.0
+version: 1.1.0
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-21
 ---
 
 # Filosofía del Altepetl
@@ -29,6 +29,8 @@ Cada uno de estos documentos con un rol distinto:
 | [**Marco Legal Organizacional**](./MarcoLegalOrganizacional.md) | Legal | ¿Qué figuras jurídicas constituimos y cómo fluyen los fondos entre ellas? |
 | [**Capital Inicial Necesario**](./CapitalInicialNecesario.md) | Financiero | ¿Cuánto cuesta arrancar y con qué se paga cada cosa? |
 | [**Marco Legal de la Blockchain**](./LegalBlockchain.md) | Legal | ¿Qué exige la ley para operar la blockchain y el token? |
+| [**Consulta Pública de Donaciones**](./ConsultaPublicaDonaciones.md) | Transparencia | ¿Cómo se registran y publican los donativos? |
+| [**Política de Comprobantes de Donación**](./PoliticasComprobanteDonacion.md) | Fiscal / Legal | ¿Cómo se comprueban los donativos y qué se advierte al donante? |
 
 ### Filosofía
 
@@ -89,6 +91,34 @@ regla de las dos bolsas (la A.C. se financia con donativos, la empresa con
 capital social) y consolida el presupuesto por escenario (mínimo viable, medio,
 ambicioso). Estimación referencial basada en costos de mercado 2025–2026.
 
+### Consulta pública de donaciones
+
+Define cómo se cumple el compromiso de transparencia en la captación de
+donativos: la conciliación manual mensual de depósitos mientras no exista
+sistema automatizado, los requisitos del futuro sistema de consulta pública en
+línea, y el mapa de obligaciones legales de transparencia —voluntarias hoy,
+obligatorias cuando exista la A.C. donataria—.
+
+### Política de comprobantes de donación
+
+Define cómo se comprueba cada donativo: el recibo no fiscal de la etapa actual
+(sin registro legal) y el CFDI con complemento de donatarias cuando exista la
+autorización del SAT. Documenta el marco legal mexicano de la recepción de
+donativos (deducibilidad, antilavado, especie, criptoactivos, extranjero), las
+advertencias que se muestran al donante antes de donar y las reglas de
+aceptación, rechazo y reembolso.
+
+### Consulta Pública de Donaciones
+
+Declara el registro público de donaciones como compromiso en construcción y lo
+divide en dos etapas: la conciliación manual mensual de los depósitos recibidos
+(procedimiento, privacidad del donante, responsable) y los requisitos del futuro
+sistema automatizado de consulta (datos, interfaz pública, infraestructura,
+protección de datos). Incluye el mapa de obligaciones legales: hoy ninguna está
+vigente porque el Altepetl no tiene registro legal —la publicación es un
+compromiso voluntario— y las que aplicarán al constituirse la A.C. donataria
+(LISR art. 82, transparencia ante el público).
+
 ## Relación entre los documentos
 
 ```
@@ -142,6 +172,9 @@ los puntos clave.
 | Marco Legal Organizacional | 0.1.0 | draft — arquitectura definida, requiere validación de asesoría legal |
 | Capital Inicial Necesario | 0.1.0 | draft — estimación definida, requiere cotización formal con proveedores |
 | Marco Legal de la Blockchain | 0.1.0 | draft — análisis definido, requiere validación de asesoría legal |
+| Consulta Pública de Donaciones | 0.1.0 | draft — etapas definidas, obligaciones legales por validar |
+| Política de Comprobantes de Donación | 0.1.0 | draft — política definida, requiere validación de asesoría legal y contable |
+| Consulta Pública de Donaciones | 0.1.0 | draft — proceso manual definido, sistema automatizado por especificar |
 
 El documento de Filosofía está estable: pasó por una revisión completa que
 resolvió inconsistencias lógicas, errores factuales y de forma. La
@@ -186,7 +219,11 @@ Filosofia/
 ├── Filosofia.md               # Documento fundacional
 ├── Especificacion.md          # Especificación técnica del Inicio
 ├── Gobernanza.md              # Marco de gobernanza
+├── MarcoLegalOrganizacional.md  # Arquitectura legal multi-entidad
+├── CapitalInicialNecesario.md   # Presupuesto de arranque por escenarios
 ├── LegalBlockchain.md         # Marco legal de la blockchain (IFPE / Ley Fintech)
+├── ConsultaPublicaDonaciones.md  # Registro y publicación de donativos
+├── PoliticasComprobanteDonacion.md  # Política de comprobantes de donación
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE
