@@ -67,6 +67,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   4/2019 de Banxico, LFPDPPP).
 
 ### Changed
+- [Filosofía](./Filosofia.md), v1.9.0: tres nuevas secciones entre "La mujer
+  como pilar del sistema capitalista actual" y "La mujer como Pilar del
+  Altepetl", corrigiendo la omisión de haber reducido el sacrificio de la
+  mujer a su dimensión económica. "Violencia perpetua" documenta con datos
+  medidos la magnitud de la violencia contra la mujer —840 millones a lo
+  largo de su vida y 316 millones en un solo año (OMS, datos 2000–2023
+  publicados en 2025); 50,000 asesinadas por su pareja o familia en 2024,
+  una cada diez minutos y medio (UNODC/ONU Mujeres); más de 230 millones de
+  niñas y mujeres con mutilación genital (UNICEF); 70.1% de las mujeres
+  mexicanas con al menos un hecho de violencia en su vida (ENDIREH 2021) y
+  2,798 asesinadas en México en 2025 (SESNSP)— y la lee como violencia
+  estructural (Galtung) y simbólica (Bourdieu), con la mujer constituida
+  como el Otro (Beauvoir), no como suma de hechos aislados. "Conciencia
+  masculina" subraya la constancia del daño —día con día, durante años,
+  desde la infancia— como vergüenza de los hombres que la toleran, denuncia
+  la indignación condicionada al vínculo afectivo ("solo duele cuando es
+  nuestra") como la misma lógica de propiedad, y declara que esto tiene que
+  parar ya, incluyendo el cambio de las condiciones materiales. "Perdón" es
+  un texto de disculpa de los hombres a las mujeres que no exige perdón a
+  cambio y lo convierte en apertura de la cuenta de la reparación.
 - [Filosofía](./Filosofia.md), v1.8.1: nuevo párrafo en "Cambio de Paradigma"
   (sección Ficonsumo) que declara que el sistema capitalista creó el
   consumismo para mantenernos como esclavos, y que el mismo consumo será el
