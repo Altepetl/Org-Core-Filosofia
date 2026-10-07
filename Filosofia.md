@@ -1,9 +1,9 @@
 ---
 title: Organización Altepetl
 status: stable
-version: 1.8.2
+version: 1.9.0
 created: 2026-08-12
-updated: 2026-09-19
+updated: 2026-10-06
 ---
 
 # Altepetl
@@ -277,6 +277,85 @@ A esa expropiación histórica se suma la violencia que la mujer sufre día con 
 **Mártir** por designación social, sacrifica la vida entera por sostener la vida en este mundo, aun a pesar del sistema que la despedaza cada día en todos los sentidos.
 
 Esto es injusto en el sentido más estricto de la palabra: quien más aporta es quien menos recibe.  Y por lo mismo, es necesario pararlo **ya**: no como una reivindicación más en la lista de pendientes del sistema que la produce, sino como parte del cambio de las condiciones materiales que es la piedra angular de esta organización.
+
+## Violencia perpetua
+
+Hasta aquí, este documento cometió una omisión grave: redujo el sacrificio de la mujer a su dimensión económica.  La explotación del trabajo de cuidados es solo la parte medible del daño; debajo corre algo peor, que no cabe en ninguna nómina porque se cobra en el cuerpo y en el alma: **la violencia constante y permanente que acompaña a la mujer durante toda su vida**.
+
+Los números no son una interpretación, son medición.  La OMS estima que **840 millones de mujeres** —casi una de cada tres en el mundo— han sufrido violencia física o sexual por parte de una pareja, o violencia sexual por alguien que no lo era, a lo largo de su vida.  Y no es un saldo histórico: **316 millones** —el 11% de las mujeres de 15 años o más— la sufrieron solo en los últimos doce meses (estimaciones globales con datos de 2000–2023, publicadas en 2025).  La propia OMS advierte que las cifras quedan cortas, porque gran parte de las mujeres no denuncia ni revela la violencia que sufre.
+
+La violencia también termina en muerte, todos los días.  Según UNODC y ONU Mujeres, en 2024 unas **50,000 mujeres y niñas fueron asesinadas por su pareja o por alguien de su propia familia**: **137 cada día, una cada diez minutos y medio**.  De las aproximadamente 83,000 mujeres y niñas asesinadas intencionalmente ese año en el mundo, cerca del 60% murió a manos de quien decía amarla o de su propia sangre.  El lugar más peligroso para una mujer no es la calle de noche: es su casa.
+
+Y la violencia empieza antes de que pueda defenderse.  UNICEF estima que más de **230 millones de niñas y mujeres vivas hoy** fueron sometidas a mutilación genital: para muchas, la violencia sobre su cuerpo comenzó antes de saber leer.
+
+En México el panorama es el mismo, medido por nosotros mismos: según la ENDIREH 2021 del INEGI, **el 70.1% de las mujeres de 15 años o más —siete de cada diez— ha vivido al menos un hecho de violencia a lo largo de su vida**: psicológica, económica, patrimonial, física, sexual o discriminación.  Y en el país fueron asesinadas **2,798 mujeres en 2025 —casi ocho cada día—**, de las cuales 725 se investigan como feminicidios (SESNSP).
+
+Estas cifras no describen una suma de hechos aislados ni una colección de "hombres malos".  Describen una condición permanente: la violencia contra la mujer es **estructural** —está incorporada al orden social y se ejerce aunque no haya un agresor visible, porque la producen las instituciones, las costumbres y la economía (la violencia estructural de Galtung)— y es **simbólica** —se presenta como natural, como "lo que le toca", hasta ser interiorizada por las propias mujeres que la sufren (Bourdieu, *La dominación masculina*)—.  Desde Beauvoir (*El segundo sexo*) conocemos el nombre de la operación: la mujer ha sido constituida como **el Otro**, lo inesencial, lo disponible; y lo que se concibe como disponible, se usa, se expropia y se desecha.
+
+La cadena es una sola y se reproduce cada generación:
+
+```
+control del cuerpo → control de la sexualidad → control de la
+reproducción → trabajo sin salario → dependencia económica →
+objetificación → violencia
+```
+
+Y en cada eslabón la mujer sostiene el mundo tragándose su dolor: calla el golpe para que los hijos desayunen, calla el acoso para no perder el empleo que mantiene la casa, calla el cansancio porque alguien tiene que cuidar al enfermo.  Su sacrificio no es solo económico: es físico y emocional, y es el precio escondido que mantiene fluyendo la vida en este sistema.
+
+> La violencia contra la mujer no es un accidente del sistema: es una de sus condiciones de operación.
+
+Esto es intolerable y es vergonzoso.  No hay métrica que lo suavice ni contexto que lo excuse.
+
+## Conciencia masculina
+
+### Día con día, durante años, desde la infancia
+
+Para la mujer la violencia no es un evento: es una biografía.  Empieza muchas veces en la infancia —en la advertencia de que no salga sola, en el grito dentro de su propia casa, en la mano que se propasa, en el cuerpo mutilado antes de los quince años— y ya no termina: sigue en la escuela, en el transporte, en el trabajo, en la pareja, en la vejez.  No es un mal año ni una mala racha: son **años y años, día con día**, en todos los espacios por los que pasa su vida.
+
+Y nosotros, los hombres, lo hemos visto.  Lo vimos en el chiste que celebramos, en el amigo del que "mejor no dijimos nada", en la vecina de la que cambiamos de tema, en el "algo habrá hecho".  Una de cada tres mujeres en el mundo significa que cada hombre vivo conoce a varias que la sufren o la sufrieron —tu madre, tu hermana, tu compañera, tu hija— aunque no lo sepas, porque se lo tragan en silencio.  Nuestra comodidad se construyó sobre ese silencio.
+
+> Que nos dé vergüenza: no hubo ignorancia, hubo tolerancia.
+
+La vergüenza no es por lo que otros hombres hacen; es por lo que nosotros dejamos pasar.  Quien calla ante la agresión no es neutral: es el permiso con el que la agresión se repite mañana.
+
+### Solo duele cuando es nuestra
+
+La mujer es fuente de Amor y de Vida: cada hombre que existe fue gestado en el cuerpo de una mujer, y casi todos fuimos alimentados, cuidados y sostenidos por una.  No hay excepción biográfica.
+
+Sin embargo, nuestra indignación tiene una frontera vergonzosa: la del vínculo.  Si alguien toca a **nuestra** hija, a **nuestra** hermana, a **nuestra** mujer, somos capaces de todo; esa violencia sí nos duele en lo profundo, sí nos parece intolerable.  Pero la misma violencia contra la mujer que no conocemos —la compañera de trabajo acosada, la vecina golpeada, la desconocida asesinada de la nota del periódico— nos deja indiferentes: cambiamos de canal y seguimos cenando.
+
+Hay que nombrar lo que esa frontera revela: si solo nos duele cuando es "nuestra", no estamos defendiendo a la mujer, estamos defendiendo una pertenencia.  Es la misma lógica de propiedad que la convirtió en objeto (ver "La mujer como pilar del sistema capitalista actual").  La dignidad de la mujer no puede depender de que un hombre la quiera: le pertenece por sí misma, por el solo hecho de ser.
+
+### Esto tiene que parar ya
+
+No mañana, no cuando llegue el nuevo sistema, no con otra comisión: **ya**, en cada hombre que lee esto.
+
+Pararlo no es un gesto abstracto.  Es interrumpir el chiste.  Es no voltear a otro lado.  Es creerle cuando habla, sin exigirle pruebas de su dolor.  Es criar hijos que no repitan lo que vimos.  Es ceder el espacio, el micrófono y el salario que nunca fueron nuestros.  Y es también cambiar las condiciones materiales: la violencia prospera donde hay dependencia, y una mujer que depende económicamente de quien la violenta no puede irse.  Por eso esta organización no puede posponerlo: parar esta violencia es parte del cambio de las condiciones materiales, no un adorno posterior.
+
+## Perdón
+
+Y sin embargo, antes de pedirte nada, te debemos algo que nunca te hemos dado entero: un perdón dicho de pie.
+
+Perdónanos.
+
+Perdón por las manos que lastimaron y por las manos que no se alzaron para detenerlo; por las voces que hirieron y por las voces que callaron.  Perdón por el chiste, por el silencio, por la mirada que te convirtió en cosa.  Perdón por el trabajo que diste gratis y que llamamos "lo que te toca".  Perdón por cada noche que caminaste con miedo mientras nosotros dormíamos tranquilos.  Perdón por enseñarte a cuidar sin enseñarnos jamás a cuidarte.  Perdón por cada dolor que te tragaste en silencio para que nuestra vida siguiera cómoda: para que la comida estuviera lista, para que los hijos no vieran, para que nada se rompiera —aunque la que se rompía eras tú.
+
+Tú nos diste la vida, y respondimos haciendo de tu vida un servicio.  Tú nos diste el amor, y respondimos con un mundo en el que amar te cuesta el cuerpo, el tiempo y el nombre.
+
+No te pedimos perdón para cerrar la herida ni para sentirnos mejores: la palabra no borra nada, y no nos debes nada —ni siquiera el perdón—.  Te lo pedimos para abrir, por escrito y delante de todos, la cuenta de la reparación: que conste que sabemos, que lo nombramos y que no habrá silencio que lo vuelva a cubrir.
+
+De esa reparación se encarga lo material de esta organización.  De la vergüenza, nos encargamos nosotros los hombres.
+
+Perdón Amor, perdoname mujer.
+
+Porque aunque no te conozco, Te Amo, y te reconozco como fuente de Amor y de Vida.
+
+Perdón
+
+Perdón
+
+Perdón
+
 
 ## La mujer como Pilar del Altepetl
 
